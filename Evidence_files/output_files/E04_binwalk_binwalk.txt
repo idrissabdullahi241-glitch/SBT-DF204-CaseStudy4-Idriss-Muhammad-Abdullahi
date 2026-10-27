@@ -1,0 +1,1168 @@
+
+Scan Time:     2026-10-26 09:36:46
+Target File:   /root/SBT-DF-Case4/recovered/recup_dir.1/f0104057.jpg
+MD5 Checksum:  ee67d8bef72f9b63fa93dc9ea1bb833a
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             JPEG image data, JFIF standard 1.01
+
+
+Scan Time:     2026-10-26 09:36:46
+Target File:   /root/SBT-DF-Case4/recovered/recup_dir.1/f0104249.jpg
+MD5 Checksum:  4d37a1033450b8cc96ffd1564829d321
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             JPEG image data, JFIF standard 1.02
+
+
+Scan Time:     2026-10-26 09:36:47
+Target File:   /root/SBT-DF-Case4/recovered/recup_dir.1/f0105065.jpg
+MD5 Checksum:  6bd0e9bd4fb4a738f9ca4c351a853281
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             JPEG image data, JFIF standard 1.01
+
+
+Scan Time:     2026-10-26 09:36:47
+Target File:   /root/SBT-DF-Case4/recovered/recup_dir.1/f0105873.jpg
+MD5 Checksum:  f1bbcd31cd33badc65ca3d1d781f57fa
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             JPEG image data, JFIF standard 1.02
+
+
+Scan Time:     2026-10-26 09:36:47
+Target File:   /root/SBT-DF-Case4/recovered/recup_dir.1/f0106393.jpg
+MD5 Checksum:  ca03f2eed3db06a82a8a31b3a3defa24
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             JPEG image data, JFIF standard 1.00
+
+
+Scan Time:     2026-10-26 09:36:47
+Target File:   /root/SBT-DF-Case4/recovered/recup_dir.1/f0106409.jpg
+MD5 Checksum:  ed870202082ea4fd8f5488533a561b35
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             JPEG image data, JFIF standard 1.01
+
+
+Scan Time:     2026-10-26 09:36:48
+Target File:   /root/SBT-DF-Case4/recovered/recup_dir.1/f0335081.jpg
+MD5 Checksum:  f1bbcd31cd33badc65ca3d1d781f57fa
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             JPEG image data, JFIF standard 1.02
+
+
+Scan Time:     2026-10-26 09:36:50
+Target File:   /root/SBT-DF-Case4/recovered/recup_dir.1/f0000545.txt
+MD5 Checksum:  febdde04ef7b756540dda503763a1dfb
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+
+
+Scan Time:     2026-10-26 09:37:40
+Target File:   /root/SBT-DF-Case4/recovered/recup_dir.1/f0106905.txt
+MD5 Checksum:  67f6807ba5a6ad33bc83c8ed14bc6098
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+
+
+Scan Time:     2026-10-26 09:39:39
+Target File:   /root/SBT-DF-Case4/recovered/recup_dir.1/f0335601.txt
+MD5 Checksum:  853134b80b48de73e301ee0cb26cbb1c
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+
+
+Scan Time:     2026-10-26 09:39:39
+Target File:   /root/SBT-DF-Case4/recovered/recup_dir.1/f0335945.txt
+MD5 Checksum:  2bc35b9a3d2c36cbabfb1ff190647129
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+
+
+Scan Time:     2026-10-26 09:39:39
+Target File:   /root/SBT-DF-Case4/recovered/recup_dir.1/f0336457.txt
+MD5 Checksum:  74ea73147bab23313c0a689d633fa236
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+
+
+Scan Time:     2026-10-26 09:39:39
+Target File:   /root/SBT-DF-Case4/recovered/recup_dir.1/f0336969.txt
+MD5 Checksum:  66edc9842fd36feeea117d288dc15f5d
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+
+
+Scan Time:     2026-10-26 09:39:39
+Target File:   /root/SBT-DF-Case4/recovered/recup_dir.1/f0337489.txt
+MD5 Checksum:  53feb2dc17a94bcf72aa0231e4ecb206
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+
+
+Scan Time:     2026-10-26 09:39:40
+Target File:   /root/SBT-DF-Case4/recovered/recup_dir.1/f0338001.txt
+MD5 Checksum:  52d55be696b4af0a474e5f7f63ad2b2e
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+
+
+Scan Time:     2026-10-26 09:39:40
+Target File:   /root/SBT-DF-Case4/recovered/recup_dir.1/f0338513.txt
+MD5 Checksum:  0c93b5d072ad2c26498f64fbddd8cd80
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+
+
+Scan Time:     2026-10-26 09:39:40
+Target File:   /root/SBT-DF-Case4/recovered/recup_dir.1/f0339025.txt
+MD5 Checksum:  52cd047944ff8abbc372a8b8a551abdb
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+
+
+Scan Time:     2026-10-26 09:39:40
+Target File:   /root/SBT-DF-Case4/recovered/recup_dir.1/f0339545.txt
+MD5 Checksum:  b15c79861a32f3a88ea5227a1eff7371
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+
+
+Scan Time:     2026-10-26 09:39:41
+Target File:   /root/SBT-DF-Case4/recovered/recup_dir.1/f0340057.txt
+MD5 Checksum:  d9dc5670524bac75524f5b083e5ab5a0
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+
+
+Scan Time:     2026-10-26 09:39:41
+Target File:   /root/SBT-DF-Case4/recovered/recup_dir.1/f0340569.txt
+MD5 Checksum:  e2c73c9e4e52e45c3ef2e8cedfc78f4b
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+
+
+Scan Time:     2026-10-26 09:39:41
+Target File:   /root/SBT-DF-Case4/recovered/recup_dir.1/f0341081.txt
+MD5 Checksum:  3ed5f9dd2495d980ba8dfa96c9f17ed5
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+
+
+Scan Time:     2026-10-26 09:39:41
+Target File:   /root/SBT-DF-Case4/recovered/recup_dir.1/f0341601.txt
+MD5 Checksum:  bff5ad30da9c112a38e164c90f81b7ec
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+
+
+Scan Time:     2026-10-26 09:39:41
+Target File:   /root/SBT-DF-Case4/recovered/recup_dir.1/f0342113.txt
+MD5 Checksum:  22d0cdd34ae7a3eb63e142a0f0da60ca
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+
+
+Scan Time:     2026-10-26 09:39:42
+Target File:   /root/SBT-DF-Case4/recovered/recup_dir.1/f0342625.txt
+MD5 Checksum:  049691e968a26d73acddd61543bded63
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+
+
+Scan Time:     2026-10-26 09:39:42
+Target File:   /root/SBT-DF-Case4/recovered/recup_dir.1/f0343137.txt
+MD5 Checksum:  696da1f5ba6d6b11692bb224feacf31b
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+
+
+Scan Time:     2026-10-26 09:39:42
+Target File:   /root/SBT-DF-Case4/recovered/recup_dir.1/f0343657.txt
+MD5 Checksum:  6a218ff81d5d278390d918b1d0cf47e2
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+
+
+Scan Time:     2026-10-26 09:39:42
+Target File:   /root/SBT-DF-Case4/recovered/recup_dir.1/f0344585.txt
+MD5 Checksum:  d9d4674c2e817040ab5f82d0e89cd133
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+
+
+Scan Time:     2026-10-26 09:39:42
+Target File:   /root/SBT-DF-Case4/recovered/recup_dir.1/f0344681.txt
+MD5 Checksum:  15af51f60355b8bb4f6486680f7df99e
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+
+
+Scan Time:     2026-10-26 09:39:42
+Target File:   /root/SBT-DF-Case4/recovered/recup_dir.1/f0345201.txt
+MD5 Checksum:  2673c1b64ede102bceb30f66070174bc
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+
+
+Scan Time:     2026-10-26 09:39:43
+Target File:   /root/SBT-DF-Case4/recovered/recup_dir.1/f0345713.txt
+MD5 Checksum:  d09207c140342148a6e5c66851c52a9b
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+
+
+Scan Time:     2026-10-26 09:39:43
+Target File:   /root/SBT-DF-Case4/recovered/recup_dir.1/f0346225.txt
+MD5 Checksum:  e7649829094c968a035c3f698b4248d4
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+
+
+Scan Time:     2026-10-26 09:39:43
+Target File:   /root/SBT-DF-Case4/recovered/recup_dir.1/f0346737.txt
+MD5 Checksum:  2b7ff8d28d530e735b8b5ddfacdd41d2
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+
+
+Scan Time:     2026-10-26 09:39:44
+Target File:   /root/SBT-DF-Case4/recovered/recup_dir.1/f0347257.txt
+MD5 Checksum:  1581002fccc0c502eb6d76fcbcf24aad
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+
+
+Scan Time:     2026-10-26 09:39:44
+Target File:   /root/SBT-DF-Case4/recovered/recup_dir.1/f0347769.txt
+MD5 Checksum:  3ac02ba6c27462a282fdf424f07bee31
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+
+
+Scan Time:     2026-10-26 09:39:44
+Target File:   /root/SBT-DF-Case4/recovered/recup_dir.1/f0348281.txt
+MD5 Checksum:  641dce78a6da78875eb6d7a74d9206dc
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+
+
+Scan Time:     2026-10-26 09:39:44
+Target File:   /root/SBT-DF-Case4/recovered/recup_dir.1/f0348793.txt
+MD5 Checksum:  a677570b2550df90faeeef78f5cf7bf2
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+
+
+Scan Time:     2026-10-26 09:39:45
+Target File:   /root/SBT-DF-Case4/recovered/recup_dir.1/f0349313.txt
+MD5 Checksum:  ecbcd22a27a88ded84cc7a41180697bc
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+
+
+Scan Time:     2026-10-26 09:39:45
+Target File:   /root/SBT-DF-Case4/recovered/recup_dir.1/f0349825.txt
+MD5 Checksum:  b73d77b3e9cb19b9593514ae9d68387e
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+
+
+Scan Time:     2026-10-26 09:39:45
+Target File:   /root/SBT-DF-Case4/recovered/recup_dir.1/f0350337.txt
+MD5 Checksum:  b56b39418c0d7d6a4b73d8dcfea070d4
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+
+
+Scan Time:     2026-10-26 09:39:45
+Target File:   /root/SBT-DF-Case4/recovered/recup_dir.1/f0350849.txt
+MD5 Checksum:  c60ab227259958ce03487c73ab6a3e70
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+
+
+Scan Time:     2026-10-26 09:39:46
+Target File:   /root/SBT-DF-Case4/recovered/recup_dir.1/f0351369.txt
+MD5 Checksum:  b6c2ee1c1f630797e1b3e80cf9f32d50
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+
+
+Scan Time:     2026-10-26 09:39:46
+Target File:   /root/SBT-DF-Case4/recovered/recup_dir.1/f0351881.txt
+MD5 Checksum:  90ffbcfe43b20e98272f44eb85373d82
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+
+
+Scan Time:     2026-10-26 09:39:46
+Target File:   /root/SBT-DF-Case4/recovered/recup_dir.1/f0352393.txt
+MD5 Checksum:  e819e332a14d2810e656a0b711b7fd9b
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+
+
+Scan Time:     2026-10-26 09:39:46
+Target File:   /root/SBT-DF-Case4/recovered/recup_dir.1/f0352905.txt
+MD5 Checksum:  9e61af1edacc3652693e99bff19ccd8b
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+
+
+Scan Time:     2026-10-26 09:39:47
+Target File:   /root/SBT-DF-Case4/recovered/recup_dir.1/f0353425.txt
+MD5 Checksum:  7d98c0ca169a9e0ef1891c606b7c668f
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+
+
+Scan Time:     2026-10-26 09:39:47
+Target File:   /root/SBT-DF-Case4/recovered/recup_dir.1/f0353937.txt
+MD5 Checksum:  baae617e5e7f811c30ea64e66f7d9c9a
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+
+
+Scan Time:     2026-10-26 09:39:47
+Target File:   /root/SBT-DF-Case4/recovered/recup_dir.1/f0354449.txt
+MD5 Checksum:  9bd7aa8c457cdc92745c9348703c7622
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+
+
+Scan Time:     2026-10-26 09:39:48
+Target File:   /root/SBT-DF-Case4/recovered/recup_dir.1/f0354961.txt
+MD5 Checksum:  a2dade87edb51138c368fb2c7d7c6de0
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+
+
+Scan Time:     2026-10-26 09:39:48
+Target File:   /root/SBT-DF-Case4/recovered/recup_dir.1/f0355481.txt
+MD5 Checksum:  e2d076238ff9f651a31074c1413bce37
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+
+
+Scan Time:     2026-10-26 09:39:48
+Target File:   /root/SBT-DF-Case4/recovered/recup_dir.1/f0355993.txt
+MD5 Checksum:  59dc65d102eaf4bde998fc6f72575fc9
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+
+
+Scan Time:     2026-10-26 09:39:48
+Target File:   /root/SBT-DF-Case4/recovered/recup_dir.1/f0356505.txt
+MD5 Checksum:  1212a35ad836bfaca2c9a6b8dce9a51b
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+
+
+Scan Time:     2026-10-26 09:39:49
+Target File:   /root/SBT-DF-Case4/recovered/recup_dir.1/f0357017.txt
+MD5 Checksum:  0b55e4b0905189e387eea46908efacc5
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+
+
+Scan Time:     2026-10-26 09:39:49
+Target File:   /root/SBT-DF-Case4/recovered/recup_dir.1/f0357537.txt
+MD5 Checksum:  c28d095fa192af56e13810501c54bcb8
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+
+
+Scan Time:     2026-10-26 09:39:49
+Target File:   /root/SBT-DF-Case4/recovered/recup_dir.1/f0358049.txt
+MD5 Checksum:  eab83c157b43eb0a17528174b62de1f5
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+
+
+Scan Time:     2026-10-26 09:39:49
+Target File:   /root/SBT-DF-Case4/recovered/recup_dir.1/f0358561.txt
+MD5 Checksum:  488e3d3d438127e101869fb84c95ad7a
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+
+
+Scan Time:     2026-10-26 09:39:50
+Target File:   /root/SBT-DF-Case4/recovered/recup_dir.1/f0359073.txt
+MD5 Checksum:  98a397c351e17c53ac2fc4d26eca23bb
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+
+
+Scan Time:     2026-10-26 09:39:50
+Target File:   /root/SBT-DF-Case4/recovered/recup_dir.1/f0359593.txt
+MD5 Checksum:  25f40967e17d336623e35a98f01c234a
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+
+
+Scan Time:     2026-10-26 09:39:50
+Target File:   /root/SBT-DF-Case4/recovered/recup_dir.1/f0360105.txt
+MD5 Checksum:  25635548bb720df488799dc7cf956d8e
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+
+
+Scan Time:     2026-10-26 09:39:50
+Target File:   /root/SBT-DF-Case4/recovered/recup_dir.1/f0360969.txt
+MD5 Checksum:  e7178df047103f218880d69dcad843ea
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+
+
+Scan Time:     2026-10-26 09:39:51
+Target File:   /root/SBT-DF-Case4/recovered/recup_dir.1/f0361137.txt
+MD5 Checksum:  3e4ece9879d2471a3c6123c2427d5f67
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+
+
+Scan Time:     2026-10-26 09:39:51
+Target File:   /root/SBT-DF-Case4/recovered/recup_dir.1/f0361649.txt
+MD5 Checksum:  1ef5f6fb6c411f42780a87f3eda06753
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+
+
+Scan Time:     2026-10-26 09:39:51
+Target File:   /root/SBT-DF-Case4/recovered/recup_dir.1/f0362161.txt
+MD5 Checksum:  b3d7dec0381221af8a990701ad1adcd2
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+
+
+Scan Time:     2026-10-26 09:39:51
+Target File:   /root/SBT-DF-Case4/recovered/recup_dir.1/f0362673.txt
+MD5 Checksum:  61830c7e42995a7fde7b6a8710e4c296
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+
+
+Scan Time:     2026-10-26 09:39:51
+Target File:   /root/SBT-DF-Case4/recovered/recup_dir.1/f0363193.txt
+MD5 Checksum:  8491e6036a953bd88c1179e93c332e94
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+
+
+Scan Time:     2026-10-26 09:39:52
+Target File:   /root/SBT-DF-Case4/recovered/recup_dir.1/f0363705.txt
+MD5 Checksum:  8c8b97a9c1fcd9a4399bf3fda3047089
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+
+
+Scan Time:     2026-10-26 09:39:52
+Target File:   /root/SBT-DF-Case4/recovered/recup_dir.1/f0364217.txt
+MD5 Checksum:  694c5fc69c987ac1c134583b70a3d8d0
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+
+
+Scan Time:     2026-10-26 09:39:52
+Target File:   /root/SBT-DF-Case4/recovered/recup_dir.1/f0364729.txt
+MD5 Checksum:  210db0fbd8a5d598d979464a089d5f4f
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+
+
+Scan Time:     2026-10-26 09:39:52
+Target File:   /root/SBT-DF-Case4/recovered/recup_dir.1/f0365249.txt
+MD5 Checksum:  bad91e72adc3fbb92093d3714b1edc63
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+
+
+Scan Time:     2026-10-26 09:39:53
+Target File:   /root/SBT-DF-Case4/recovered/recup_dir.1/f0365761.txt
+MD5 Checksum:  6e3c715ace87cf18b87d40a81b718efa
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+
+
+Scan Time:     2026-10-26 09:39:53
+Target File:   /root/SBT-DF-Case4/recovered/recup_dir.1/f0366273.txt
+MD5 Checksum:  715b73443a83e7f9069d33cd52332fb1
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+
+
+Scan Time:     2026-10-26 09:39:53
+Target File:   /root/SBT-DF-Case4/recovered/recup_dir.1/f0366785.txt
+MD5 Checksum:  6b1e7d65e793c615cbd244168bd90a98
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+
+
+Scan Time:     2026-10-26 09:39:54
+Target File:   /root/SBT-DF-Case4/recovered/recup_dir.1/f0367305.txt
+MD5 Checksum:  1074fd04b4c3477ecd6cd3c48f019685
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+
+
+Scan Time:     2026-10-26 09:39:54
+Target File:   /root/SBT-DF-Case4/recovered/recup_dir.1/f0367817.txt
+MD5 Checksum:  6d0463d6c80480496b3deae0f8deeb31
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+
+
+Scan Time:     2026-10-26 09:39:54
+Target File:   /root/SBT-DF-Case4/recovered/recup_dir.1/f0368329.txt
+MD5 Checksum:  d7dbbea06f2f63cd6e6dc282b016d251
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+
+
+Scan Time:     2026-10-26 09:39:54
+Target File:   /root/SBT-DF-Case4/recovered/recup_dir.1/f0368841.txt
+MD5 Checksum:  74a5d86a503c946094e413e5bedac088
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+
+
+Scan Time:     2026-10-26 09:39:55
+Target File:   /root/SBT-DF-Case4/recovered/recup_dir.1/f0369361.txt
+MD5 Checksum:  17c0c2a385c7f5b3f17cfdfc5e9613b7
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+
+
+Scan Time:     2026-10-26 09:39:55
+Target File:   /root/SBT-DF-Case4/recovered/recup_dir.1/f0369873.txt
+MD5 Checksum:  884f57b9057dac9cb9ed6b13e5f28381
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+
+
+Scan Time:     2026-10-26 09:39:55
+Target File:   /root/SBT-DF-Case4/recovered/recup_dir.1/f0370385.txt
+MD5 Checksum:  77b50f8a4650de7404cf68dd347cda73
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+
+
+Scan Time:     2026-10-26 09:39:56
+Target File:   /root/SBT-DF-Case4/recovered/recup_dir.1/f0370897.txt
+MD5 Checksum:  d5e9a6c6ccdc2f447a9306ee129ae091
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+
+
+Scan Time:     2026-10-26 09:39:56
+Target File:   /root/SBT-DF-Case4/recovered/recup_dir.1/f0371417.txt
+MD5 Checksum:  723d2a9de5f05fffad48486b2e9a52cd
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+
+
+Scan Time:     2026-10-26 09:39:56
+Target File:   /root/SBT-DF-Case4/recovered/recup_dir.1/f0371929.txt
+MD5 Checksum:  15ae96aef8809587a10b5e4d5712d514
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+
+
+Scan Time:     2026-10-26 09:39:57
+Target File:   /root/SBT-DF-Case4/recovered/recup_dir.1/f0372441.txt
+MD5 Checksum:  d93d9d620f11c74545f5e598ae3e844c
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+
+
+Scan Time:     2026-10-26 09:39:57
+Target File:   /root/SBT-DF-Case4/recovered/recup_dir.1/f0372953.txt
+MD5 Checksum:  1ad0a69ce87d780e799054591e7b879c
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+
+
+Scan Time:     2026-10-26 09:39:57
+Target File:   /root/SBT-DF-Case4/recovered/recup_dir.1/f0373473.txt
+MD5 Checksum:  e9073f96f062eac234a12de79b71c33f
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+
+
+Scan Time:     2026-10-26 09:39:58
+Target File:   /root/SBT-DF-Case4/recovered/recup_dir.1/f0373985.txt
+MD5 Checksum:  69fe22c17c0a9282664e24ce3e513148
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+
+
+Scan Time:     2026-10-26 09:39:58
+Target File:   /root/SBT-DF-Case4/recovered/recup_dir.1/f0374497.txt
+MD5 Checksum:  bb1c038fc9fdd63a55aedc9acbb0973d
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+
+
+Scan Time:     2026-10-26 09:39:59
+Target File:   /root/SBT-DF-Case4/recovered/recup_dir.1/f0375009.txt
+MD5 Checksum:  8d31b33a83ae89fc259483f3ff4bdfb4
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+
+
+Scan Time:     2026-10-26 09:39:59
+Target File:   /root/SBT-DF-Case4/recovered/recup_dir.1/f0375529.txt
+MD5 Checksum:  7c85f54b1be858a8767726fb43ef27cd
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+
+
+Scan Time:     2026-10-26 09:40:00
+Target File:   /root/SBT-DF-Case4/recovered/recup_dir.1/f0376041.txt
+MD5 Checksum:  3d2609073cc64badd32a2e1cc5ee0619
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+
+
+Scan Time:     2026-10-26 09:40:01
+Target File:   /root/SBT-DF-Case4/recovered/recup_dir.1/f0376553.txt
+MD5 Checksum:  4fec2e812e15fe834cf5ce45ea68d922
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+
+
+Scan Time:     2026-10-26 09:40:01
+Target File:   /root/SBT-DF-Case4/recovered/recup_dir.1/f0377353.txt
+MD5 Checksum:  d9739a4884bc6f1bacb1c83afb93e1c8
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+
+
+Scan Time:     2026-10-26 09:40:01
+Target File:   /root/SBT-DF-Case4/recovered/recup_dir.1/f0377585.txt
+MD5 Checksum:  609760c6cc31f00194cf0f160ed4860b
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+
+
+Scan Time:     2026-10-26 09:40:01
+Target File:   /root/SBT-DF-Case4/recovered/recup_dir.1/f0378097.txt
+MD5 Checksum:  1f0ec892044443834ffef2c70c2c729b
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+
+
+Scan Time:     2026-10-26 09:40:02
+Target File:   /root/SBT-DF-Case4/recovered/recup_dir.1/f0378609.txt
+MD5 Checksum:  47962112a80ec01711daed6e17eda56d
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+
+
+Scan Time:     2026-10-26 09:40:02
+Target File:   /root/SBT-DF-Case4/recovered/recup_dir.1/f0379129.txt
+MD5 Checksum:  83de7c4d6c4f569d7b6a178cd684b237
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+
+
+Scan Time:     2026-10-26 09:40:02
+Target File:   /root/SBT-DF-Case4/recovered/recup_dir.1/f0379641.txt
+MD5 Checksum:  7dd2273c7b1c2fd3463c85e16c3c4024
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+
+
+Scan Time:     2026-10-26 09:40:03
+Target File:   /root/SBT-DF-Case4/recovered/recup_dir.1/f0380153.txt
+MD5 Checksum:  6b848f3d2bf62bb98e4c425afc0941ee
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+
+
+Scan Time:     2026-10-26 09:40:03
+Target File:   /root/SBT-DF-Case4/recovered/recup_dir.1/f0380665.txt
+MD5 Checksum:  bc5e97d5b950d58504cd8aed3fee8a97
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+
+
+Scan Time:     2026-10-26 09:40:03
+Target File:   /root/SBT-DF-Case4/recovered/recup_dir.1/f0381185.txt
+MD5 Checksum:  faa95a82777bc10644f742470d63414c
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+
+
+Scan Time:     2026-10-26 09:40:03
+Target File:   /root/SBT-DF-Case4/recovered/recup_dir.1/f0381697.txt
+MD5 Checksum:  dae1b854df482af346a92c514d61e57a
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+
+
+Scan Time:     2026-10-26 09:40:04
+Target File:   /root/SBT-DF-Case4/recovered/recup_dir.1/f0382209.txt
+MD5 Checksum:  b429e5ddc55482566f84bba37894a4a9
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+
+
+Scan Time:     2026-10-26 09:40:04
+Target File:   /root/SBT-DF-Case4/recovered/recup_dir.1/f0382721.txt
+MD5 Checksum:  a30f6c197dbb105f4a3067a557d17263
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+
+
+Scan Time:     2026-10-26 09:40:04
+Target File:   /root/SBT-DF-Case4/recovered/recup_dir.1/f0383241.txt
+MD5 Checksum:  16bf4f1a88beda0b9e7a69132c14c6c4
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+
+
+Scan Time:     2026-10-26 09:40:04
+Target File:   /root/SBT-DF-Case4/recovered/recup_dir.1/f0383753.txt
+MD5 Checksum:  f632ab6ac886ea0742bc0340d91f0e47
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+
+
+Scan Time:     2026-10-26 09:40:05
+Target File:   /root/SBT-DF-Case4/recovered/recup_dir.1/f0384265.txt
+MD5 Checksum:  3f93589350cc56c3bf087dd2e6693a75
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+
+
+Scan Time:     2026-10-26 09:40:05
+Target File:   /root/SBT-DF-Case4/recovered/recup_dir.1/f0384777.txt
+MD5 Checksum:  f086f67fd08bc0da75e4ac4049b7745a
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+
+
+Scan Time:     2026-10-26 09:40:05
+Target File:   /root/SBT-DF-Case4/recovered/recup_dir.1/f0385297.txt
+MD5 Checksum:  637f3335b18a5055881b4aa786053d8b
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+
+
+Scan Time:     2026-10-26 09:40:06
+Target File:   /root/SBT-DF-Case4/recovered/recup_dir.1/f0385809.txt
+MD5 Checksum:  40bf19a0db060c10a5e9297f2b200dfa
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+
+
+Scan Time:     2026-10-26 09:40:06
+Target File:   /root/SBT-DF-Case4/recovered/recup_dir.1/f0386321.txt
+MD5 Checksum:  509a0605f7fb5014cd76a34cd8f59540
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+
+
+Scan Time:     2026-10-26 09:40:06
+Target File:   /root/SBT-DF-Case4/recovered/recup_dir.1/f0386833.txt
+MD5 Checksum:  6b42cda95114d3a3ca216ad760092d96
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+
+
+Scan Time:     2026-10-26 09:40:06
+Target File:   /root/SBT-DF-Case4/recovered/recup_dir.1/f0387353.txt
+MD5 Checksum:  9f17848a7b6867b36afb5ef01e2eac42
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+
+
+Scan Time:     2026-10-26 09:40:07
+Target File:   /root/SBT-DF-Case4/recovered/recup_dir.1/f0387865.txt
+MD5 Checksum:  224b537be8b245e20546ec3190ba4886
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+
+
+Scan Time:     2026-10-26 09:40:07
+Target File:   /root/SBT-DF-Case4/recovered/recup_dir.1/f0388377.txt
+MD5 Checksum:  627f4e2c1b5caf8838fa0fddb377000e
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+
+
+Scan Time:     2026-10-26 09:40:07
+Target File:   /root/SBT-DF-Case4/recovered/recup_dir.1/f0388889.txt
+MD5 Checksum:  74ff34248b68d0f8b9178765dcf69fbb
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+
+
+Scan Time:     2026-10-26 09:40:07
+Target File:   /root/SBT-DF-Case4/recovered/recup_dir.1/f0389409.txt
+MD5 Checksum:  3bd69177353f0b0af1fe33f726bf7907
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+
+
+Scan Time:     2026-10-26 09:40:08
+Target File:   /root/SBT-DF-Case4/recovered/recup_dir.1/f0389921.txt
+MD5 Checksum:  9f5d6b58913c3c058182da31904accb8
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+
+
+Scan Time:     2026-10-26 09:40:08
+Target File:   /root/SBT-DF-Case4/recovered/recup_dir.1/f0390433.txt
+MD5 Checksum:  d95ff4c7ec1fcd60811ed1f2b5610f22
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+
+
+Scan Time:     2026-10-26 09:40:08
+Target File:   /root/SBT-DF-Case4/recovered/recup_dir.1/f0390945.txt
+MD5 Checksum:  d2e41eff0e221f6a2c0f4e09c16afe68
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+
+
+Scan Time:     2026-10-26 09:40:08
+Target File:   /root/SBT-DF-Case4/recovered/recup_dir.1/f0391465.txt
+MD5 Checksum:  50b8883dfb3533a29e156d4fca9fd14e
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+
+
+Scan Time:     2026-10-26 09:40:09
+Target File:   /root/SBT-DF-Case4/recovered/recup_dir.1/f0391977.txt
+MD5 Checksum:  4880b0e75d5a7e2dd380fedfeef8036a
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+
+
+Scan Time:     2026-10-26 09:40:09
+Target File:   /root/SBT-DF-Case4/recovered/recup_dir.1/f0392489.txt
+MD5 Checksum:  efd3dbd0eed15fb860caff948a712026
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+
+
+Scan Time:     2026-10-26 09:40:09
+Target File:   /root/SBT-DF-Case4/recovered/recup_dir.1/f0393001.txt
+MD5 Checksum:  e958788f502c314c5b49f7f552985efc
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+
+
+Scan Time:     2026-10-26 09:40:09
+Target File:   /root/SBT-DF-Case4/recovered/recup_dir.1/f0393737.txt
+MD5 Checksum:  f94c0ef734e4b92c5d4f5d32f62e5eeb
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+
+
+Scan Time:     2026-10-26 09:40:10
+Target File:   /root/SBT-DF-Case4/recovered/recup_dir.1/f0394033.txt
+MD5 Checksum:  4c78b65c32bf7206325510bc00f6e17a
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+
+
+Scan Time:     2026-10-26 09:40:10
+Target File:   /root/SBT-DF-Case4/recovered/recup_dir.1/f0394545.txt
+MD5 Checksum:  eb400fceaf19f084c19e8688bac04c6a
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+
+
+Scan Time:     2026-10-26 09:40:10
+Target File:   /root/SBT-DF-Case4/recovered/recup_dir.1/f0395065.txt
+MD5 Checksum:  8e3b53720d815321a68ce6941ec6908f
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+
+
+Scan Time:     2026-10-26 09:40:11
+Target File:   /root/SBT-DF-Case4/recovered/recup_dir.1/f0395577.txt
+MD5 Checksum:  482c320cc59ec7d2d9a0f0b6064f7ccc
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+
+
+Scan Time:     2026-10-26 09:40:11
+Target File:   /root/SBT-DF-Case4/recovered/recup_dir.1/f0396089.txt
+MD5 Checksum:  5b41751f5ff823898082ae940690fce4
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+
+
+Scan Time:     2026-10-26 09:40:11
+Target File:   /root/SBT-DF-Case4/recovered/recup_dir.1/f0396601.txt
+MD5 Checksum:  33a23caefc1bb644453ea934e59a952b
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+

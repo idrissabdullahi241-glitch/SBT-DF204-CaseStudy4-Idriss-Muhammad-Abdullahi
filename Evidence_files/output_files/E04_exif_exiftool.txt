@@ -1,0 +1,2131 @@
+======== recovered/recup_dir.1/f0104057.jpg
+[ExifTool]      ExifToolVersion                 : 13.55
+[System]        FileName                        : f0104057.jpg
+[System]        Directory                       : recovered/recup_dir.1
+[System]        FileSize                        : 96 kB
+[System]        FileModifyDate                  : 2026:10:25 20:55:28-04:00
+[System]        FileAccessDate                  : 2026:10:25 21:12:01-04:00
+[System]        FileInodeChangeDate             : 2026:10:25 20:55:28-04:00
+[System]        FilePermissions                 : -rw-rw-r--
+[File]          FileType                        : JPEG
+[File]          FileTypeExtension               : jpg
+[File]          MIMEType                        : image/jpeg
+[File]          Comment                         : copyright 2000 philg@mit.edu
+[File]          ImageWidth                      : 528
+[File]          ImageHeight                     : 792
+[File]          EncodingProcess                 : Baseline DCT, Huffman coding
+[File]          BitsPerSample                   : 8
+[File]          ColorComponents                 : 3
+[File]          YCbCrSubSampling                : YCbCr4:4:4 (1 1)
+[JFIF]          JFIFVersion                     : 1.01
+[JFIF]          ResolutionUnit                  : None
+[JFIF]          XResolution                     : 0
+[JFIF]          YResolution                     : 0
+[Composite]     ImageSize                       : 528x792
+[Composite]     Megapixels                      : 0.418
+======== recovered/recup_dir.1/f0104249.jpg
+[ExifTool]      ExifToolVersion                 : 13.55
+[System]        FileName                        : f0104249.jpg
+[System]        Directory                       : recovered/recup_dir.1
+[System]        FileSize                        : 416 kB
+[System]        FileModifyDate                  : 2026:10:25 20:55:28-04:00
+[System]        FileAccessDate                  : 2026:10:25 21:13:12-04:00
+[System]        FileInodeChangeDate             : 2026:10:25 20:55:28-04:00
+[System]        FilePermissions                 : -rw-rw-r--
+[File]          FileType                        : JPEG
+[File]          FileTypeExtension               : jpg
+[File]          MIMEType                        : image/jpeg
+[File]          ImageWidth                      : 1349
+[File]          ImageHeight                     : 900
+[File]          EncodingProcess                 : Baseline DCT, Huffman coding
+[File]          BitsPerSample                   : 8
+[File]          ColorComponents                 : 3
+[File]          YCbCrSubSampling                : YCbCr4:4:4 (1 1)
+[JFIF]          JFIFVersion                     : 1.02
+[JFIF]          ResolutionUnit                  : None
+[JFIF]          XResolution                     : 100
+[JFIF]          YResolution                     : 100
+[Composite]     ImageSize                       : 1349x900
+[Composite]     Megapixels                      : 1.2
+======== recovered/recup_dir.1/f0105065.jpg
+[ExifTool]      ExifToolVersion                 : 13.55
+[System]        FileName                        : f0105065.jpg
+[System]        Directory                       : recovered/recup_dir.1
+[System]        FileSize                        : 411 kB
+[System]        FileModifyDate                  : 2026:10:25 20:55:28-04:00
+[System]        FileAccessDate                  : 2026:10:25 21:48:04-04:00
+[System]        FileInodeChangeDate             : 2026:10:25 20:55:28-04:00
+[System]        FilePermissions                 : -rw-rw-r--
+[File]          FileType                        : JPEG
+[File]          FileTypeExtension               : jpg
+[File]          MIMEType                        : image/jpeg
+[File]          ImageWidth                      : 1686
+[File]          ImageHeight                     : 1122
+[File]          EncodingProcess                 : Baseline DCT, Huffman coding
+[File]          BitsPerSample                   : 8
+[File]          ColorComponents                 : 3
+[File]          YCbCrSubSampling                : YCbCr4:2:0 (2 2)
+[JFIF]          JFIFVersion                     : 1.01
+[JFIF]          ResolutionUnit                  : None
+[JFIF]          XResolution                     : 1
+[JFIF]          YResolution                     : 1
+[Composite]     ImageSize                       : 1686x1122
+[Composite]     Megapixels                      : 1.9
+======== recovered/recup_dir.1/f0105873.jpg
+[ExifTool]      ExifToolVersion                 : 13.55
+[System]        FileName                        : f0105873.jpg
+[System]        Directory                       : recovered/recup_dir.1
+[System]        FileSize                        : 265 kB
+[System]        FileModifyDate                  : 2026:10:25 20:55:28-04:00
+[System]        FileAccessDate                  : 2026:10:25 21:47:59-04:00
+[System]        FileInodeChangeDate             : 2026:10:25 20:55:28-04:00
+[System]        FilePermissions                 : -rw-rw-r--
+[File]          FileType                        : JPEG
+[File]          FileTypeExtension               : jpg
+[File]          MIMEType                        : image/jpeg
+[File]          ImageWidth                      : 1024
+[File]          ImageHeight                     : 768
+[File]          EncodingProcess                 : Baseline DCT, Huffman coding
+[File]          BitsPerSample                   : 8
+[File]          ColorComponents                 : 3
+[File]          YCbCrSubSampling                : YCbCr4:4:4 (1 1)
+[JFIF]          JFIFVersion                     : 1.02
+[JFIF]          ResolutionUnit                  : None
+[JFIF]          XResolution                     : 100
+[JFIF]          YResolution                     : 100
+[Ducky]         Quality                         : 79%
+[Adobe]         DCTEncodeVersion                : 100
+[Adobe]         APP14Flags0                     : [14], Encoded with Blend=1 downsampling
+[Adobe]         APP14Flags1                     : (none)
+[Adobe]         ColorTransform                  : YCbCr
+[Composite]     ImageSize                       : 1024x768
+[Composite]     Megapixels                      : 0.786
+======== recovered/recup_dir.1/f0106393.jpg
+[ExifTool]      ExifToolVersion                 : 13.55
+[System]        FileName                        : f0106393.jpg
+[System]        Directory                       : recovered/recup_dir.1
+[System]        FileSize                        : 6.8 kB
+[System]        FileModifyDate                  : 2026:10:25 20:55:28-04:00
+[System]        FileAccessDate                  : 2026:10:25 21:48:05-04:00
+[System]        FileInodeChangeDate             : 2026:10:25 20:55:28-04:00
+[System]        FilePermissions                 : -rw-rw-r--
+[File]          FileType                        : JPEG
+[File]          FileTypeExtension               : jpg
+[File]          MIMEType                        : image/jpeg
+[File]          Comment                         : LEAD Technologies Inc. V1.01
+[File]          ImageWidth                      : 169
+[File]          ImageHeight                     : 228
+[File]          EncodingProcess                 : Baseline DCT, Huffman coding
+[File]          BitsPerSample                   : 8
+[File]          ColorComponents                 : 3
+[File]          YCbCrSubSampling                : YCbCr4:4:4 (1 1)
+[JFIF]          JFIFVersion                     : 1.00
+[JFIF]          ResolutionUnit                  : inches
+[JFIF]          XResolution                     : 72
+[JFIF]          YResolution                     : 72
+[Composite]     ImageSize                       : 169x228
+[Composite]     Megapixels                      : 0.039
+======== recovered/recup_dir.1/f0106409.jpg
+[ExifTool]      ExifToolVersion                 : 13.55
+[System]        FileName                        : f0106409.jpg
+[System]        Directory                       : recovered/recup_dir.1
+[System]        FileSize                        : 231 kB
+[System]        FileModifyDate                  : 2026:10:25 20:55:28-04:00
+[System]        FileAccessDate                  : 2026:10:25 21:48:08-04:00
+[System]        FileInodeChangeDate             : 2026:10:25 20:55:28-04:00
+[System]        FilePermissions                 : -rw-rw-r--
+[File]          FileType                        : JPEG
+[File]          FileTypeExtension               : jpg
+[File]          MIMEType                        : image/jpeg
+[File]          ImageWidth                      : 1024
+[File]          ImageHeight                     : 685
+[File]          EncodingProcess                 : Baseline DCT, Huffman coding
+[File]          BitsPerSample                   : 8
+[File]          ColorComponents                 : 3
+[File]          YCbCrSubSampling                : YCbCr4:2:0 (2 2)
+[JFIF]          JFIFVersion                     : 1.01
+[JFIF]          ResolutionUnit                  : inches
+[JFIF]          XResolution                     : 170
+[JFIF]          YResolution                     : 170
+[Composite]     ImageSize                       : 1024x685
+[Composite]     Megapixels                      : 0.701
+======== recovered/recup_dir.1/f0335081.jpg
+[ExifTool]      ExifToolVersion                 : 13.55
+[System]        FileName                        : f0335081.jpg
+[System]        Directory                       : recovered/recup_dir.1
+[System]        FileSize                        : 265 kB
+[System]        FileModifyDate                  : 2026:10:25 20:55:35-04:00
+[System]        FileAccessDate                  : 2026:10:25 21:47:59-04:00
+[System]        FileInodeChangeDate             : 2026:10:25 20:55:35-04:00
+[System]        FilePermissions                 : -rw-rw-r--
+[File]          FileType                        : JPEG
+[File]          FileTypeExtension               : jpg
+[File]          MIMEType                        : image/jpeg
+[File]          ImageWidth                      : 1024
+[File]          ImageHeight                     : 768
+[File]          EncodingProcess                 : Baseline DCT, Huffman coding
+[File]          BitsPerSample                   : 8
+[File]          ColorComponents                 : 3
+[File]          YCbCrSubSampling                : YCbCr4:4:4 (1 1)
+[JFIF]          JFIFVersion                     : 1.02
+[JFIF]          ResolutionUnit                  : None
+[JFIF]          XResolution                     : 100
+[JFIF]          YResolution                     : 100
+[Ducky]         Quality                         : 79%
+[Adobe]         DCTEncodeVersion                : 100
+[Adobe]         APP14Flags0                     : [14], Encoded with Blend=1 downsampling
+[Adobe]         APP14Flags1                     : (none)
+[Adobe]         ColorTransform                  : YCbCr
+[Composite]     ImageSize                       : 1024x768
+[Composite]     Megapixels                      : 0.786
+======== recovered/recup_dir.1/f0000545.txt
+[ExifTool]      ExifToolVersion                 : 13.55
+[ExifTool]      Warning                         : [Minor] Not counting lines/words in text file larger than 20 MB
+[System]        FileName                        : f0000545.txt
+[System]        Directory                       : recovered/recup_dir.1
+[System]        FileSize                        : 53 MB
+[System]        FileModifyDate                  : 2026:10:25 20:55:28-04:00
+[System]        FileAccessDate                  : 2026:10:25 21:48:00-04:00
+[System]        FileInodeChangeDate             : 2026:10:25 20:55:28-04:00
+[System]        FilePermissions                 : -rw-rw-r--
+[File]          FileType                        : TXT
+[File]          FileTypeExtension               : txt
+[File]          MIMEType                        : text/plain
+[File]          MIMEEncoding                    : us-ascii
+[File]          Newlines                        : Unix LF
+======== recovered/recup_dir.1/f0106905.txt
+[ExifTool]      ExifToolVersion                 : 13.55
+[ExifTool]      Warning                         : [Minor] Not counting lines/words in text file larger than 20 MB
+[System]        FileName                        : f0106905.txt
+[System]        Directory                       : recovered/recup_dir.1
+[System]        FileSize                        : 117 MB
+[System]        FileModifyDate                  : 2026:10:25 20:55:35-04:00
+[System]        FileAccessDate                  : 2026:10:25 21:47:55-04:00
+[System]        FileInodeChangeDate             : 2026:10:25 20:55:35-04:00
+[System]        FilePermissions                 : -rw-rw-r--
+[File]          FileType                        : TXT
+[File]          FileTypeExtension               : txt
+[File]          MIMEType                        : text/plain
+[File]          MIMEEncoding                    : us-ascii
+[File]          Newlines                        : Unix LF
+======== recovered/recup_dir.1/f0335601.txt
+[ExifTool]      ExifToolVersion                 : 13.55
+[System]        FileName                        : f0335601.txt
+[System]        Directory                       : recovered/recup_dir.1
+[System]        FileSize                        : 173 kB
+[System]        FileModifyDate                  : 2026:10:25 20:55:35-04:00
+[System]        FileAccessDate                  : 2026:10:25 21:48:09-04:00
+[System]        FileInodeChangeDate             : 2026:10:25 20:55:35-04:00
+[System]        FilePermissions                 : -rw-rw-r--
+[File]          FileType                        : TXT
+[File]          FileTypeExtension               : txt
+[File]          MIMEType                        : text/plain
+[File]          MIMEEncoding                    : unknown-8bit
+[File]          Newlines                        : Unix LF
+[File]          LineCount                       : 21569
+[File]          WordCount                       : 21569
+======== recovered/recup_dir.1/f0335945.txt
+[ExifTool]      ExifToolVersion                 : 13.55
+[System]        FileName                        : f0335945.txt
+[System]        Directory                       : recovered/recup_dir.1
+[System]        FileSize                        : 260 kB
+[System]        FileModifyDate                  : 2026:10:25 20:55:35-04:00
+[System]        FileAccessDate                  : 2026:10:25 21:47:59-04:00
+[System]        FileInodeChangeDate             : 2026:10:25 20:55:35-04:00
+[System]        FilePermissions                 : -rw-rw-r--
+[File]          FileType                        : TXT
+[File]          FileTypeExtension               : txt
+[File]          MIMEType                        : text/plain
+[File]          MIMEEncoding                    : unknown-8bit
+[File]          Newlines                        : Unix LF
+[File]          LineCount                       : 32449
+[File]          WordCount                       : 32449
+======== recovered/recup_dir.1/f0336457.txt
+[ExifTool]      ExifToolVersion                 : 13.55
+[System]        FileName                        : f0336457.txt
+[System]        Directory                       : recovered/recup_dir.1
+[System]        FileSize                        : 261 kB
+[System]        FileModifyDate                  : 2026:10:25 20:55:35-04:00
+[System]        FileAccessDate                  : 2026:10:25 21:48:09-04:00
+[System]        FileInodeChangeDate             : 2026:10:25 20:55:35-04:00
+[System]        FilePermissions                 : -rw-rw-r--
+[File]          FileType                        : TXT
+[File]          FileTypeExtension               : txt
+[File]          MIMEType                        : text/plain
+[File]          MIMEEncoding                    : unknown-8bit
+[File]          Newlines                        : Unix LF
+[File]          LineCount                       : 32577
+[File]          WordCount                       : 32577
+======== recovered/recup_dir.1/f0336969.txt
+[ExifTool]      ExifToolVersion                 : 13.55
+[System]        FileName                        : f0336969.txt
+[System]        Directory                       : recovered/recup_dir.1
+[System]        FileSize                        : 262 kB
+[System]        FileModifyDate                  : 2026:10:25 20:55:36-04:00
+[System]        FileAccessDate                  : 2026:10:25 21:47:55-04:00
+[System]        FileInodeChangeDate             : 2026:10:25 20:55:36-04:00
+[System]        FilePermissions                 : -rw-rw-r--
+[File]          FileType                        : TXT
+[File]          FileTypeExtension               : txt
+[File]          MIMEType                        : text/plain
+[File]          MIMEEncoding                    : unknown-8bit
+[File]          Newlines                        : Unix LF
+[File]          LineCount                       : 32705
+[File]          WordCount                       : 32705
+======== recovered/recup_dir.1/f0337489.txt
+[ExifTool]      ExifToolVersion                 : 13.55
+[System]        FileName                        : f0337489.txt
+[System]        Directory                       : recovered/recup_dir.1
+[System]        FileSize                        : 259 kB
+[System]        FileModifyDate                  : 2026:10:25 20:55:36-04:00
+[System]        FileAccessDate                  : 2026:10:25 21:47:58-04:00
+[System]        FileInodeChangeDate             : 2026:10:25 20:55:36-04:00
+[System]        FilePermissions                 : -rw-rw-r--
+[File]          FileType                        : TXT
+[File]          FileTypeExtension               : txt
+[File]          MIMEType                        : text/plain
+[File]          MIMEEncoding                    : unknown-8bit
+[File]          Newlines                        : Unix LF
+[File]          LineCount                       : 32321
+[File]          WordCount                       : 32321
+======== recovered/recup_dir.1/f0338001.txt
+[ExifTool]      ExifToolVersion                 : 13.55
+[System]        FileName                        : f0338001.txt
+[System]        Directory                       : recovered/recup_dir.1
+[System]        FileSize                        : 260 kB
+[System]        FileModifyDate                  : 2026:10:25 20:55:36-04:00
+[System]        FileAccessDate                  : 2026:10:25 21:47:59-04:00
+[System]        FileInodeChangeDate             : 2026:10:25 20:55:36-04:00
+[System]        FilePermissions                 : -rw-rw-r--
+[File]          FileType                        : TXT
+[File]          FileTypeExtension               : txt
+[File]          MIMEType                        : text/plain
+[File]          MIMEEncoding                    : unknown-8bit
+[File]          Newlines                        : Unix LF
+[File]          LineCount                       : 32449
+[File]          WordCount                       : 32449
+======== recovered/recup_dir.1/f0338513.txt
+[ExifTool]      ExifToolVersion                 : 13.55
+[System]        FileName                        : f0338513.txt
+[System]        Directory                       : recovered/recup_dir.1
+[System]        FileSize                        : 261 kB
+[System]        FileModifyDate                  : 2026:10:25 20:55:36-04:00
+[System]        FileAccessDate                  : 2026:10:25 21:47:54-04:00
+[System]        FileInodeChangeDate             : 2026:10:25 20:55:36-04:00
+[System]        FilePermissions                 : -rw-rw-r--
+[File]          FileType                        : TXT
+[File]          FileTypeExtension               : txt
+[File]          MIMEType                        : text/plain
+[File]          MIMEEncoding                    : unknown-8bit
+[File]          Newlines                        : Unix LF
+[File]          LineCount                       : 32577
+[File]          WordCount                       : 32577
+======== recovered/recup_dir.1/f0339025.txt
+[ExifTool]      ExifToolVersion                 : 13.55
+[System]        FileName                        : f0339025.txt
+[System]        Directory                       : recovered/recup_dir.1
+[System]        FileSize                        : 262 kB
+[System]        FileModifyDate                  : 2026:10:25 20:55:36-04:00
+[System]        FileAccessDate                  : 2026:10:25 21:48:08-04:00
+[System]        FileInodeChangeDate             : 2026:10:25 20:55:36-04:00
+[System]        FilePermissions                 : -rw-rw-r--
+[File]          FileType                        : TXT
+[File]          FileTypeExtension               : txt
+[File]          MIMEType                        : text/plain
+[File]          MIMEEncoding                    : unknown-8bit
+[File]          Newlines                        : Unix LF
+[File]          LineCount                       : 32705
+[File]          WordCount                       : 32705
+======== recovered/recup_dir.1/f0339545.txt
+[ExifTool]      ExifToolVersion                 : 13.55
+[System]        FileName                        : f0339545.txt
+[System]        Directory                       : recovered/recup_dir.1
+[System]        FileSize                        : 259 kB
+[System]        FileModifyDate                  : 2026:10:25 20:55:36-04:00
+[System]        FileAccessDate                  : 2026:10:25 21:48:08-04:00
+[System]        FileInodeChangeDate             : 2026:10:25 20:55:36-04:00
+[System]        FilePermissions                 : -rw-rw-r--
+[File]          FileType                        : TXT
+[File]          FileTypeExtension               : txt
+[File]          MIMEType                        : text/plain
+[File]          MIMEEncoding                    : unknown-8bit
+[File]          Newlines                        : Unix LF
+[File]          LineCount                       : 32321
+[File]          WordCount                       : 32321
+======== recovered/recup_dir.1/f0340057.txt
+[ExifTool]      ExifToolVersion                 : 13.55
+[System]        FileName                        : f0340057.txt
+[System]        Directory                       : recovered/recup_dir.1
+[System]        FileSize                        : 260 kB
+[System]        FileModifyDate                  : 2026:10:25 20:55:36-04:00
+[System]        FileAccessDate                  : 2026:10:25 21:47:59-04:00
+[System]        FileInodeChangeDate             : 2026:10:25 20:55:36-04:00
+[System]        FilePermissions                 : -rw-rw-r--
+[File]          FileType                        : TXT
+[File]          FileTypeExtension               : txt
+[File]          MIMEType                        : text/plain
+[File]          MIMEEncoding                    : unknown-8bit
+[File]          Newlines                        : Unix LF
+[File]          LineCount                       : 32449
+[File]          WordCount                       : 32449
+======== recovered/recup_dir.1/f0340569.txt
+[ExifTool]      ExifToolVersion                 : 13.55
+[System]        FileName                        : f0340569.txt
+[System]        Directory                       : recovered/recup_dir.1
+[System]        FileSize                        : 261 kB
+[System]        FileModifyDate                  : 2026:10:25 20:55:36-04:00
+[System]        FileAccessDate                  : 2026:10:25 21:47:54-04:00
+[System]        FileInodeChangeDate             : 2026:10:25 20:55:36-04:00
+[System]        FilePermissions                 : -rw-rw-r--
+[File]          FileType                        : TXT
+[File]          FileTypeExtension               : txt
+[File]          MIMEType                        : text/plain
+[File]          MIMEEncoding                    : unknown-8bit
+[File]          Newlines                        : Unix LF
+[File]          LineCount                       : 32577
+[File]          WordCount                       : 32577
+======== recovered/recup_dir.1/f0341081.txt
+[ExifTool]      ExifToolVersion                 : 13.55
+[System]        FileName                        : f0341081.txt
+[System]        Directory                       : recovered/recup_dir.1
+[System]        FileSize                        : 262 kB
+[System]        FileModifyDate                  : 2026:10:25 20:55:36-04:00
+[System]        FileAccessDate                  : 2026:10:25 21:47:59-04:00
+[System]        FileInodeChangeDate             : 2026:10:25 20:55:36-04:00
+[System]        FilePermissions                 : -rw-rw-r--
+[File]          FileType                        : TXT
+[File]          FileTypeExtension               : txt
+[File]          MIMEType                        : text/plain
+[File]          MIMEEncoding                    : unknown-8bit
+[File]          Newlines                        : Unix LF
+[File]          LineCount                       : 32705
+[File]          WordCount                       : 32705
+======== recovered/recup_dir.1/f0341601.txt
+[ExifTool]      ExifToolVersion                 : 13.55
+[System]        FileName                        : f0341601.txt
+[System]        Directory                       : recovered/recup_dir.1
+[System]        FileSize                        : 259 kB
+[System]        FileModifyDate                  : 2026:10:25 20:55:36-04:00
+[System]        FileAccessDate                  : 2026:10:25 21:47:59-04:00
+[System]        FileInodeChangeDate             : 2026:10:25 20:55:36-04:00
+[System]        FilePermissions                 : -rw-rw-r--
+[File]          FileType                        : TXT
+[File]          FileTypeExtension               : txt
+[File]          MIMEType                        : text/plain
+[File]          MIMEEncoding                    : unknown-8bit
+[File]          Newlines                        : Unix LF
+[File]          LineCount                       : 32321
+[File]          WordCount                       : 32321
+======== recovered/recup_dir.1/f0342113.txt
+[ExifTool]      ExifToolVersion                 : 13.55
+[System]        FileName                        : f0342113.txt
+[System]        Directory                       : recovered/recup_dir.1
+[System]        FileSize                        : 260 kB
+[System]        FileModifyDate                  : 2026:10:25 20:55:36-04:00
+[System]        FileAccessDate                  : 2026:10:25 21:48:06-04:00
+[System]        FileInodeChangeDate             : 2026:10:25 20:55:36-04:00
+[System]        FilePermissions                 : -rw-rw-r--
+[File]          FileType                        : TXT
+[File]          FileTypeExtension               : txt
+[File]          MIMEType                        : text/plain
+[File]          MIMEEncoding                    : unknown-8bit
+[File]          Newlines                        : Unix LF
+[File]          LineCount                       : 32449
+[File]          WordCount                       : 32449
+======== recovered/recup_dir.1/f0342625.txt
+[ExifTool]      ExifToolVersion                 : 13.55
+[System]        FileName                        : f0342625.txt
+[System]        Directory                       : recovered/recup_dir.1
+[System]        FileSize                        : 261 kB
+[System]        FileModifyDate                  : 2026:10:25 20:55:36-04:00
+[System]        FileAccessDate                  : 2026:10:25 21:48:06-04:00
+[System]        FileInodeChangeDate             : 2026:10:25 20:55:36-04:00
+[System]        FilePermissions                 : -rw-rw-r--
+[File]          FileType                        : TXT
+[File]          FileTypeExtension               : txt
+[File]          MIMEType                        : text/plain
+[File]          MIMEEncoding                    : unknown-8bit
+[File]          Newlines                        : Unix LF
+[File]          LineCount                       : 32577
+[File]          WordCount                       : 32577
+======== recovered/recup_dir.1/f0343137.txt
+[ExifTool]      ExifToolVersion                 : 13.55
+[System]        FileName                        : f0343137.txt
+[System]        Directory                       : recovered/recup_dir.1
+[System]        FileSize                        : 262 kB
+[System]        FileModifyDate                  : 2026:10:25 20:55:36-04:00
+[System]        FileAccessDate                  : 2026:10:25 21:47:59-04:00
+[System]        FileInodeChangeDate             : 2026:10:25 20:55:36-04:00
+[System]        FilePermissions                 : -rw-rw-r--
+[File]          FileType                        : TXT
+[File]          FileTypeExtension               : txt
+[File]          MIMEType                        : text/plain
+[File]          MIMEEncoding                    : unknown-8bit
+[File]          Newlines                        : Unix LF
+[File]          LineCount                       : 32705
+[File]          WordCount                       : 32705
+======== recovered/recup_dir.1/f0343657.txt
+[ExifTool]      ExifToolVersion                 : 13.55
+[System]        FileName                        : f0343657.txt
+[System]        Directory                       : recovered/recup_dir.1
+[System]        FileSize                        : 209 kB
+[System]        FileModifyDate                  : 2026:10:25 20:55:36-04:00
+[System]        FileAccessDate                  : 2026:10:25 21:48:03-04:00
+[System]        FileInodeChangeDate             : 2026:10:25 20:55:36-04:00
+[System]        FilePermissions                 : -rw-rw-r--
+[File]          FileType                        : TXT
+[File]          FileTypeExtension               : txt
+[File]          MIMEType                        : text/plain
+[File]          MIMEEncoding                    : us-ascii
+[File]          Newlines                        : Unix LF
+[File]          LineCount                       : 26176
+[File]          WordCount                       : 26176
+======== recovered/recup_dir.1/f0344585.txt
+[ExifTool]      ExifToolVersion                 : 13.55
+[System]        FileName                        : f0344585.txt
+[System]        Directory                       : recovered/recup_dir.1
+[System]        FileSize                        : 48 kB
+[System]        FileModifyDate                  : 2026:10:25 20:55:36-04:00
+[System]        FileAccessDate                  : 2026:10:25 21:48:08-04:00
+[System]        FileInodeChangeDate             : 2026:10:25 20:55:36-04:00
+[System]        FilePermissions                 : -rw-rw-r--
+[File]          FileType                        : TXT
+[File]          FileTypeExtension               : txt
+[File]          MIMEType                        : text/plain
+[File]          MIMEEncoding                    : iso-8859-1
+[File]          Newlines                        : Unix LF
+[File]          LineCount                       : 5953
+[File]          WordCount                       : 5953
+======== recovered/recup_dir.1/f0344681.txt
+[ExifTool]      ExifToolVersion                 : 13.55
+[System]        FileName                        : f0344681.txt
+[System]        Directory                       : recovered/recup_dir.1
+[System]        FileSize                        : 262 kB
+[System]        FileModifyDate                  : 2026:10:25 20:55:36-04:00
+[System]        FileAccessDate                  : 2026:10:25 21:48:03-04:00
+[System]        FileInodeChangeDate             : 2026:10:25 20:55:36-04:00
+[System]        FilePermissions                 : -rw-rw-r--
+[File]          FileType                        : TXT
+[File]          FileTypeExtension               : txt
+[File]          MIMEType                        : text/plain
+[File]          MIMEEncoding                    : iso-8859-1
+[File]          Newlines                        : Unix LF
+[File]          LineCount                       : 32705
+[File]          WordCount                       : 32705
+======== recovered/recup_dir.1/f0345201.txt
+[ExifTool]      ExifToolVersion                 : 13.55
+[System]        FileName                        : f0345201.txt
+[System]        Directory                       : recovered/recup_dir.1
+[System]        FileSize                        : 259 kB
+[System]        FileModifyDate                  : 2026:10:25 20:55:36-04:00
+[System]        FileAccessDate                  : 2026:10:25 21:48:08-04:00
+[System]        FileInodeChangeDate             : 2026:10:25 20:55:36-04:00
+[System]        FilePermissions                 : -rw-rw-r--
+[File]          FileType                        : TXT
+[File]          FileTypeExtension               : txt
+[File]          MIMEType                        : text/plain
+[File]          MIMEEncoding                    : iso-8859-1
+[File]          Newlines                        : Unix LF
+[File]          LineCount                       : 32321
+[File]          WordCount                       : 32321
+======== recovered/recup_dir.1/f0345713.txt
+[ExifTool]      ExifToolVersion                 : 13.55
+[System]        FileName                        : f0345713.txt
+[System]        Directory                       : recovered/recup_dir.1
+[System]        FileSize                        : 260 kB
+[System]        FileModifyDate                  : 2026:10:25 20:55:36-04:00
+[System]        FileAccessDate                  : 2026:10:25 21:48:06-04:00
+[System]        FileInodeChangeDate             : 2026:10:25 20:55:36-04:00
+[System]        FilePermissions                 : -rw-rw-r--
+[File]          FileType                        : TXT
+[File]          FileTypeExtension               : txt
+[File]          MIMEType                        : text/plain
+[File]          MIMEEncoding                    : iso-8859-1
+[File]          Newlines                        : Unix LF
+[File]          LineCount                       : 32449
+[File]          WordCount                       : 32449
+======== recovered/recup_dir.1/f0346225.txt
+[ExifTool]      ExifToolVersion                 : 13.55
+[System]        FileName                        : f0346225.txt
+[System]        Directory                       : recovered/recup_dir.1
+[System]        FileSize                        : 261 kB
+[System]        FileModifyDate                  : 2026:10:25 20:55:36-04:00
+[System]        FileAccessDate                  : 2026:10:25 21:48:08-04:00
+[System]        FileInodeChangeDate             : 2026:10:25 20:55:36-04:00
+[System]        FilePermissions                 : -rw-rw-r--
+[File]          FileType                        : TXT
+[File]          FileTypeExtension               : txt
+[File]          MIMEType                        : text/plain
+[File]          MIMEEncoding                    : iso-8859-1
+[File]          Newlines                        : Unix LF
+[File]          LineCount                       : 32577
+[File]          WordCount                       : 32577
+======== recovered/recup_dir.1/f0346737.txt
+[ExifTool]      ExifToolVersion                 : 13.55
+[System]        FileName                        : f0346737.txt
+[System]        Directory                       : recovered/recup_dir.1
+[System]        FileSize                        : 262 kB
+[System]        FileModifyDate                  : 2026:10:25 20:55:36-04:00
+[System]        FileAccessDate                  : 2026:10:25 21:47:59-04:00
+[System]        FileInodeChangeDate             : 2026:10:25 20:55:36-04:00
+[System]        FilePermissions                 : -rw-rw-r--
+[File]          FileType                        : TXT
+[File]          FileTypeExtension               : txt
+[File]          MIMEType                        : text/plain
+[File]          MIMEEncoding                    : iso-8859-1
+[File]          Newlines                        : Unix LF
+[File]          LineCount                       : 32705
+[File]          WordCount                       : 32705
+======== recovered/recup_dir.1/f0347257.txt
+[ExifTool]      ExifToolVersion                 : 13.55
+[System]        FileName                        : f0347257.txt
+[System]        Directory                       : recovered/recup_dir.1
+[System]        FileSize                        : 259 kB
+[System]        FileModifyDate                  : 2026:10:25 20:55:36-04:00
+[System]        FileAccessDate                  : 2026:10:25 21:48:07-04:00
+[System]        FileInodeChangeDate             : 2026:10:25 20:55:36-04:00
+[System]        FilePermissions                 : -rw-rw-r--
+[File]          FileType                        : TXT
+[File]          FileTypeExtension               : txt
+[File]          MIMEType                        : text/plain
+[File]          MIMEEncoding                    : iso-8859-1
+[File]          Newlines                        : Unix LF
+[File]          LineCount                       : 32321
+[File]          WordCount                       : 32321
+======== recovered/recup_dir.1/f0347769.txt
+[ExifTool]      ExifToolVersion                 : 13.55
+[System]        FileName                        : f0347769.txt
+[System]        Directory                       : recovered/recup_dir.1
+[System]        FileSize                        : 260 kB
+[System]        FileModifyDate                  : 2026:10:25 20:55:36-04:00
+[System]        FileAccessDate                  : 2026:10:25 21:47:54-04:00
+[System]        FileInodeChangeDate             : 2026:10:25 20:55:36-04:00
+[System]        FilePermissions                 : -rw-rw-r--
+[File]          FileType                        : TXT
+[File]          FileTypeExtension               : txt
+[File]          MIMEType                        : text/plain
+[File]          MIMEEncoding                    : iso-8859-1
+[File]          Newlines                        : Unix LF
+[File]          LineCount                       : 32449
+[File]          WordCount                       : 32449
+======== recovered/recup_dir.1/f0348281.txt
+[ExifTool]      ExifToolVersion                 : 13.55
+[System]        FileName                        : f0348281.txt
+[System]        Directory                       : recovered/recup_dir.1
+[System]        FileSize                        : 261 kB
+[System]        FileModifyDate                  : 2026:10:25 20:55:36-04:00
+[System]        FileAccessDate                  : 2026:10:25 21:48:06-04:00
+[System]        FileInodeChangeDate             : 2026:10:25 20:55:36-04:00
+[System]        FilePermissions                 : -rw-rw-r--
+[File]          FileType                        : TXT
+[File]          FileTypeExtension               : txt
+[File]          MIMEType                        : text/plain
+[File]          MIMEEncoding                    : iso-8859-1
+[File]          Newlines                        : Unix LF
+[File]          LineCount                       : 32577
+[File]          WordCount                       : 32577
+======== recovered/recup_dir.1/f0348793.txt
+[ExifTool]      ExifToolVersion                 : 13.55
+[System]        FileName                        : f0348793.txt
+[System]        Directory                       : recovered/recup_dir.1
+[System]        FileSize                        : 262 kB
+[System]        FileModifyDate                  : 2026:10:25 20:55:36-04:00
+[System]        FileAccessDate                  : 2026:10:25 21:48:05-04:00
+[System]        FileInodeChangeDate             : 2026:10:25 20:55:36-04:00
+[System]        FilePermissions                 : -rw-rw-r--
+[File]          FileType                        : TXT
+[File]          FileTypeExtension               : txt
+[File]          MIMEType                        : text/plain
+[File]          MIMEEncoding                    : iso-8859-1
+[File]          Newlines                        : Unix LF
+[File]          LineCount                       : 32705
+[File]          WordCount                       : 32705
+======== recovered/recup_dir.1/f0349313.txt
+[ExifTool]      ExifToolVersion                 : 13.55
+[System]        FileName                        : f0349313.txt
+[System]        Directory                       : recovered/recup_dir.1
+[System]        FileSize                        : 259 kB
+[System]        FileModifyDate                  : 2026:10:25 20:55:36-04:00
+[System]        FileAccessDate                  : 2026:10:25 21:47:58-04:00
+[System]        FileInodeChangeDate             : 2026:10:25 20:55:36-04:00
+[System]        FilePermissions                 : -rw-rw-r--
+[File]          FileType                        : TXT
+[File]          FileTypeExtension               : txt
+[File]          MIMEType                        : text/plain
+[File]          MIMEEncoding                    : iso-8859-1
+[File]          Newlines                        : Unix LF
+[File]          LineCount                       : 32321
+[File]          WordCount                       : 32321
+======== recovered/recup_dir.1/f0349825.txt
+[ExifTool]      ExifToolVersion                 : 13.55
+[System]        FileName                        : f0349825.txt
+[System]        Directory                       : recovered/recup_dir.1
+[System]        FileSize                        : 260 kB
+[System]        FileModifyDate                  : 2026:10:25 20:55:36-04:00
+[System]        FileAccessDate                  : 2026:10:25 21:48:06-04:00
+[System]        FileInodeChangeDate             : 2026:10:25 20:55:36-04:00
+[System]        FilePermissions                 : -rw-rw-r--
+[File]          FileType                        : TXT
+[File]          FileTypeExtension               : txt
+[File]          MIMEType                        : text/plain
+[File]          MIMEEncoding                    : iso-8859-1
+[File]          Newlines                        : Unix LF
+[File]          LineCount                       : 32449
+[File]          WordCount                       : 32449
+======== recovered/recup_dir.1/f0350337.txt
+[ExifTool]      ExifToolVersion                 : 13.55
+[System]        FileName                        : f0350337.txt
+[System]        Directory                       : recovered/recup_dir.1
+[System]        FileSize                        : 261 kB
+[System]        FileModifyDate                  : 2026:10:25 20:55:36-04:00
+[System]        FileAccessDate                  : 2026:10:25 21:48:06-04:00
+[System]        FileInodeChangeDate             : 2026:10:25 20:55:36-04:00
+[System]        FilePermissions                 : -rw-rw-r--
+[File]          FileType                        : TXT
+[File]          FileTypeExtension               : txt
+[File]          MIMEType                        : text/plain
+[File]          MIMEEncoding                    : iso-8859-1
+[File]          Newlines                        : Unix LF
+[File]          LineCount                       : 32577
+[File]          WordCount                       : 32577
+======== recovered/recup_dir.1/f0350849.txt
+[ExifTool]      ExifToolVersion                 : 13.55
+[System]        FileName                        : f0350849.txt
+[System]        Directory                       : recovered/recup_dir.1
+[System]        FileSize                        : 262 kB
+[System]        FileModifyDate                  : 2026:10:25 20:55:36-04:00
+[System]        FileAccessDate                  : 2026:10:25 21:48:03-04:00
+[System]        FileInodeChangeDate             : 2026:10:25 20:55:36-04:00
+[System]        FilePermissions                 : -rw-rw-r--
+[File]          FileType                        : TXT
+[File]          FileTypeExtension               : txt
+[File]          MIMEType                        : text/plain
+[File]          MIMEEncoding                    : iso-8859-1
+[File]          Newlines                        : Unix LF
+[File]          LineCount                       : 32705
+[File]          WordCount                       : 32705
+======== recovered/recup_dir.1/f0351369.txt
+[ExifTool]      ExifToolVersion                 : 13.55
+[System]        FileName                        : f0351369.txt
+[System]        Directory                       : recovered/recup_dir.1
+[System]        FileSize                        : 259 kB
+[System]        FileModifyDate                  : 2026:10:25 20:55:36-04:00
+[System]        FileAccessDate                  : 2026:10:25 21:47:59-04:00
+[System]        FileInodeChangeDate             : 2026:10:25 20:55:36-04:00
+[System]        FilePermissions                 : -rw-rw-r--
+[File]          FileType                        : TXT
+[File]          FileTypeExtension               : txt
+[File]          MIMEType                        : text/plain
+[File]          MIMEEncoding                    : iso-8859-1
+[File]          Newlines                        : Unix LF
+[File]          LineCount                       : 32321
+[File]          WordCount                       : 32321
+======== recovered/recup_dir.1/f0351881.txt
+[ExifTool]      ExifToolVersion                 : 13.55
+[System]        FileName                        : f0351881.txt
+[System]        Directory                       : recovered/recup_dir.1
+[System]        FileSize                        : 260 kB
+[System]        FileModifyDate                  : 2026:10:25 20:55:36-04:00
+[System]        FileAccessDate                  : 2026:10:25 21:47:54-04:00
+[System]        FileInodeChangeDate             : 2026:10:25 20:55:36-04:00
+[System]        FilePermissions                 : -rw-rw-r--
+[File]          FileType                        : TXT
+[File]          FileTypeExtension               : txt
+[File]          MIMEType                        : text/plain
+[File]          MIMEEncoding                    : iso-8859-1
+[File]          Newlines                        : Unix LF
+[File]          LineCount                       : 32449
+[File]          WordCount                       : 32449
+======== recovered/recup_dir.1/f0352393.txt
+[ExifTool]      ExifToolVersion                 : 13.55
+[System]        FileName                        : f0352393.txt
+[System]        Directory                       : recovered/recup_dir.1
+[System]        FileSize                        : 261 kB
+[System]        FileModifyDate                  : 2026:10:25 20:55:36-04:00
+[System]        FileAccessDate                  : 2026:10:25 21:48:09-04:00
+[System]        FileInodeChangeDate             : 2026:10:25 20:55:36-04:00
+[System]        FilePermissions                 : -rw-rw-r--
+[File]          FileType                        : TXT
+[File]          FileTypeExtension               : txt
+[File]          MIMEType                        : text/plain
+[File]          MIMEEncoding                    : iso-8859-1
+[File]          Newlines                        : Unix LF
+[File]          LineCount                       : 32577
+[File]          WordCount                       : 32577
+======== recovered/recup_dir.1/f0352905.txt
+[ExifTool]      ExifToolVersion                 : 13.55
+[System]        FileName                        : f0352905.txt
+[System]        Directory                       : recovered/recup_dir.1
+[System]        FileSize                        : 262 kB
+[System]        FileModifyDate                  : 2026:10:25 20:55:36-04:00
+[System]        FileAccessDate                  : 2026:10:25 21:48:05-04:00
+[System]        FileInodeChangeDate             : 2026:10:25 20:55:36-04:00
+[System]        FilePermissions                 : -rw-rw-r--
+[File]          FileType                        : TXT
+[File]          FileTypeExtension               : txt
+[File]          MIMEType                        : text/plain
+[File]          MIMEEncoding                    : iso-8859-1
+[File]          Newlines                        : Unix LF
+[File]          LineCount                       : 32705
+[File]          WordCount                       : 32705
+======== recovered/recup_dir.1/f0353425.txt
+[ExifTool]      ExifToolVersion                 : 13.55
+[System]        FileName                        : f0353425.txt
+[System]        Directory                       : recovered/recup_dir.1
+[System]        FileSize                        : 259 kB
+[System]        FileModifyDate                  : 2026:10:25 20:55:36-04:00
+[System]        FileAccessDate                  : 2026:10:25 21:48:02-04:00
+[System]        FileInodeChangeDate             : 2026:10:25 20:55:36-04:00
+[System]        FilePermissions                 : -rw-rw-r--
+[File]          FileType                        : TXT
+[File]          FileTypeExtension               : txt
+[File]          MIMEType                        : text/plain
+[File]          MIMEEncoding                    : iso-8859-1
+[File]          Newlines                        : Unix LF
+[File]          LineCount                       : 32321
+[File]          WordCount                       : 32321
+======== recovered/recup_dir.1/f0353937.txt
+[ExifTool]      ExifToolVersion                 : 13.55
+[System]        FileName                        : f0353937.txt
+[System]        Directory                       : recovered/recup_dir.1
+[System]        FileSize                        : 260 kB
+[System]        FileModifyDate                  : 2026:10:25 20:55:36-04:00
+[System]        FileAccessDate                  : 2026:10:25 21:47:58-04:00
+[System]        FileInodeChangeDate             : 2026:10:25 20:55:36-04:00
+[System]        FilePermissions                 : -rw-rw-r--
+[File]          FileType                        : TXT
+[File]          FileTypeExtension               : txt
+[File]          MIMEType                        : text/plain
+[File]          MIMEEncoding                    : iso-8859-1
+[File]          Newlines                        : Unix LF
+[File]          LineCount                       : 32449
+[File]          WordCount                       : 32449
+======== recovered/recup_dir.1/f0354449.txt
+[ExifTool]      ExifToolVersion                 : 13.55
+[System]        FileName                        : f0354449.txt
+[System]        Directory                       : recovered/recup_dir.1
+[System]        FileSize                        : 261 kB
+[System]        FileModifyDate                  : 2026:10:25 20:55:36-04:00
+[System]        FileAccessDate                  : 2026:10:25 21:47:59-04:00
+[System]        FileInodeChangeDate             : 2026:10:25 20:55:36-04:00
+[System]        FilePermissions                 : -rw-rw-r--
+[File]          FileType                        : TXT
+[File]          FileTypeExtension               : txt
+[File]          MIMEType                        : text/plain
+[File]          MIMEEncoding                    : iso-8859-1
+[File]          Newlines                        : Unix LF
+[File]          LineCount                       : 32577
+[File]          WordCount                       : 32577
+======== recovered/recup_dir.1/f0354961.txt
+[ExifTool]      ExifToolVersion                 : 13.55
+[System]        FileName                        : f0354961.txt
+[System]        Directory                       : recovered/recup_dir.1
+[System]        FileSize                        : 262 kB
+[System]        FileModifyDate                  : 2026:10:25 20:55:36-04:00
+[System]        FileAccessDate                  : 2026:10:25 21:47:54-04:00
+[System]        FileInodeChangeDate             : 2026:10:25 20:55:36-04:00
+[System]        FilePermissions                 : -rw-rw-r--
+[File]          FileType                        : TXT
+[File]          FileTypeExtension               : txt
+[File]          MIMEType                        : text/plain
+[File]          MIMEEncoding                    : iso-8859-1
+[File]          Newlines                        : Unix LF
+[File]          LineCount                       : 32705
+[File]          WordCount                       : 32705
+======== recovered/recup_dir.1/f0355481.txt
+[ExifTool]      ExifToolVersion                 : 13.55
+[System]        FileName                        : f0355481.txt
+[System]        Directory                       : recovered/recup_dir.1
+[System]        FileSize                        : 259 kB
+[System]        FileModifyDate                  : 2026:10:25 20:55:36-04:00
+[System]        FileAccessDate                  : 2026:10:25 21:48:03-04:00
+[System]        FileInodeChangeDate             : 2026:10:25 20:55:36-04:00
+[System]        FilePermissions                 : -rw-rw-r--
+[File]          FileType                        : TXT
+[File]          FileTypeExtension               : txt
+[File]          MIMEType                        : text/plain
+[File]          MIMEEncoding                    : iso-8859-1
+[File]          Newlines                        : Unix LF
+[File]          LineCount                       : 32321
+[File]          WordCount                       : 32321
+======== recovered/recup_dir.1/f0355993.txt
+[ExifTool]      ExifToolVersion                 : 13.55
+[System]        FileName                        : f0355993.txt
+[System]        Directory                       : recovered/recup_dir.1
+[System]        FileSize                        : 260 kB
+[System]        FileModifyDate                  : 2026:10:25 20:55:36-04:00
+[System]        FileAccessDate                  : 2026:10:25 21:48:02-04:00
+[System]        FileInodeChangeDate             : 2026:10:25 20:55:36-04:00
+[System]        FilePermissions                 : -rw-rw-r--
+[File]          FileType                        : TXT
+[File]          FileTypeExtension               : txt
+[File]          MIMEType                        : text/plain
+[File]          MIMEEncoding                    : iso-8859-1
+[File]          Newlines                        : Unix LF
+[File]          LineCount                       : 32449
+[File]          WordCount                       : 32449
+======== recovered/recup_dir.1/f0356505.txt
+[ExifTool]      ExifToolVersion                 : 13.55
+[System]        FileName                        : f0356505.txt
+[System]        Directory                       : recovered/recup_dir.1
+[System]        FileSize                        : 261 kB
+[System]        FileModifyDate                  : 2026:10:25 20:55:36-04:00
+[System]        FileAccessDate                  : 2026:10:25 21:47:59-04:00
+[System]        FileInodeChangeDate             : 2026:10:25 20:55:36-04:00
+[System]        FilePermissions                 : -rw-rw-r--
+[File]          FileType                        : TXT
+[File]          FileTypeExtension               : txt
+[File]          MIMEType                        : text/plain
+[File]          MIMEEncoding                    : iso-8859-1
+[File]          Newlines                        : Unix LF
+[File]          LineCount                       : 32577
+[File]          WordCount                       : 32577
+======== recovered/recup_dir.1/f0357017.txt
+[ExifTool]      ExifToolVersion                 : 13.55
+[System]        FileName                        : f0357017.txt
+[System]        Directory                       : recovered/recup_dir.1
+[System]        FileSize                        : 262 kB
+[System]        FileModifyDate                  : 2026:10:25 20:55:36-04:00
+[System]        FileAccessDate                  : 2026:10:25 21:48:03-04:00
+[System]        FileInodeChangeDate             : 2026:10:25 20:55:36-04:00
+[System]        FilePermissions                 : -rw-rw-r--
+[File]          FileType                        : TXT
+[File]          FileTypeExtension               : txt
+[File]          MIMEType                        : text/plain
+[File]          MIMEEncoding                    : iso-8859-1
+[File]          Newlines                        : Unix LF
+[File]          LineCount                       : 32705
+[File]          WordCount                       : 32705
+======== recovered/recup_dir.1/f0357537.txt
+[ExifTool]      ExifToolVersion                 : 13.55
+[System]        FileName                        : f0357537.txt
+[System]        Directory                       : recovered/recup_dir.1
+[System]        FileSize                        : 259 kB
+[System]        FileModifyDate                  : 2026:10:25 20:55:36-04:00
+[System]        FileAccessDate                  : 2026:10:25 21:47:59-04:00
+[System]        FileInodeChangeDate             : 2026:10:25 20:55:36-04:00
+[System]        FilePermissions                 : -rw-rw-r--
+[File]          FileType                        : TXT
+[File]          FileTypeExtension               : txt
+[File]          MIMEType                        : text/plain
+[File]          MIMEEncoding                    : iso-8859-1
+[File]          Newlines                        : Unix LF
+[File]          LineCount                       : 32321
+[File]          WordCount                       : 32321
+======== recovered/recup_dir.1/f0358049.txt
+[ExifTool]      ExifToolVersion                 : 13.55
+[System]        FileName                        : f0358049.txt
+[System]        Directory                       : recovered/recup_dir.1
+[System]        FileSize                        : 260 kB
+[System]        FileModifyDate                  : 2026:10:25 20:55:36-04:00
+[System]        FileAccessDate                  : 2026:10:25 21:47:59-04:00
+[System]        FileInodeChangeDate             : 2026:10:25 20:55:36-04:00
+[System]        FilePermissions                 : -rw-rw-r--
+[File]          FileType                        : TXT
+[File]          FileTypeExtension               : txt
+[File]          MIMEType                        : text/plain
+[File]          MIMEEncoding                    : iso-8859-1
+[File]          Newlines                        : Unix LF
+[File]          LineCount                       : 32449
+[File]          WordCount                       : 32449
+======== recovered/recup_dir.1/f0358561.txt
+[ExifTool]      ExifToolVersion                 : 13.55
+[System]        FileName                        : f0358561.txt
+[System]        Directory                       : recovered/recup_dir.1
+[System]        FileSize                        : 261 kB
+[System]        FileModifyDate                  : 2026:10:25 20:55:36-04:00
+[System]        FileAccessDate                  : 2026:10:25 21:48:00-04:00
+[System]        FileInodeChangeDate             : 2026:10:25 20:55:36-04:00
+[System]        FilePermissions                 : -rw-rw-r--
+[File]          FileType                        : TXT
+[File]          FileTypeExtension               : txt
+[File]          MIMEType                        : text/plain
+[File]          MIMEEncoding                    : iso-8859-1
+[File]          Newlines                        : Unix LF
+[File]          LineCount                       : 32577
+[File]          WordCount                       : 32577
+======== recovered/recup_dir.1/f0359073.txt
+[ExifTool]      ExifToolVersion                 : 13.55
+[System]        FileName                        : f0359073.txt
+[System]        Directory                       : recovered/recup_dir.1
+[System]        FileSize                        : 262 kB
+[System]        FileModifyDate                  : 2026:10:25 20:55:36-04:00
+[System]        FileAccessDate                  : 2026:10:25 21:48:06-04:00
+[System]        FileInodeChangeDate             : 2026:10:25 20:55:36-04:00
+[System]        FilePermissions                 : -rw-rw-r--
+[File]          FileType                        : TXT
+[File]          FileTypeExtension               : txt
+[File]          MIMEType                        : text/plain
+[File]          MIMEEncoding                    : iso-8859-1
+[File]          Newlines                        : Unix LF
+[File]          LineCount                       : 32705
+[File]          WordCount                       : 32705
+======== recovered/recup_dir.1/f0359593.txt
+[ExifTool]      ExifToolVersion                 : 13.55
+[System]        FileName                        : f0359593.txt
+[System]        Directory                       : recovered/recup_dir.1
+[System]        FileSize                        : 259 kB
+[System]        FileModifyDate                  : 2026:10:25 20:55:36-04:00
+[System]        FileAccessDate                  : 2026:10:25 21:48:03-04:00
+[System]        FileInodeChangeDate             : 2026:10:25 20:55:36-04:00
+[System]        FilePermissions                 : -rw-rw-r--
+[File]          FileType                        : TXT
+[File]          FileTypeExtension               : txt
+[File]          MIMEType                        : text/plain
+[File]          MIMEEncoding                    : iso-8859-1
+[File]          Newlines                        : Unix LF
+[File]          LineCount                       : 32321
+[File]          WordCount                       : 32321
+======== recovered/recup_dir.1/f0360105.txt
+[ExifTool]      ExifToolVersion                 : 13.55
+[System]        FileName                        : f0360105.txt
+[System]        Directory                       : recovered/recup_dir.1
+[System]        FileSize                        : 177 kB
+[System]        FileModifyDate                  : 2026:10:25 20:55:36-04:00
+[System]        FileAccessDate                  : 2026:10:25 21:48:05-04:00
+[System]        FileInodeChangeDate             : 2026:10:25 20:55:36-04:00
+[System]        FilePermissions                 : -rw-rw-r--
+[File]          FileType                        : TXT
+[File]          FileTypeExtension               : txt
+[File]          MIMEType                        : text/plain
+[File]          MIMEEncoding                    : us-ascii
+[File]          Newlines                        : Unix LF
+[File]          LineCount                       : 22080
+[File]          WordCount                       : 22080
+======== recovered/recup_dir.1/f0360969.txt
+[ExifTool]      ExifToolVersion                 : 13.55
+[System]        FileName                        : f0360969.txt
+[System]        Directory                       : recovered/recup_dir.1
+[System]        FileSize                        : 81 kB
+[System]        FileModifyDate                  : 2026:10:25 20:55:36-04:00
+[System]        FileAccessDate                  : 2026:10:25 21:48:06-04:00
+[System]        FileInodeChangeDate             : 2026:10:25 20:55:36-04:00
+[System]        FilePermissions                 : -rw-rw-r--
+[File]          FileType                        : TXT
+[File]          FileTypeExtension               : txt
+[File]          MIMEType                        : text/plain
+[File]          MIMEEncoding                    : us-ascii
+[File]          Newlines                        : Unix LF
+[File]          LineCount                       : 10177
+[File]          WordCount                       : 10177
+======== recovered/recup_dir.1/f0361137.txt
+[ExifTool]      ExifToolVersion                 : 13.55
+[System]        FileName                        : f0361137.txt
+[System]        Directory                       : recovered/recup_dir.1
+[System]        FileSize                        : 259 kB
+[System]        FileModifyDate                  : 2026:10:25 20:55:36-04:00
+[System]        FileAccessDate                  : 2026:10:25 21:47:59-04:00
+[System]        FileInodeChangeDate             : 2026:10:25 20:55:36-04:00
+[System]        FilePermissions                 : -rw-rw-r--
+[File]          FileType                        : TXT
+[File]          FileTypeExtension               : txt
+[File]          MIMEType                        : text/plain
+[File]          MIMEEncoding                    : iso-8859-1
+[File]          Newlines                        : Unix LF
+[File]          LineCount                       : 32321
+[File]          WordCount                       : 32321
+======== recovered/recup_dir.1/f0361649.txt
+[ExifTool]      ExifToolVersion                 : 13.55
+[System]        FileName                        : f0361649.txt
+[System]        Directory                       : recovered/recup_dir.1
+[System]        FileSize                        : 260 kB
+[System]        FileModifyDate                  : 2026:10:25 20:55:36-04:00
+[System]        FileAccessDate                  : 2026:10:25 21:48:03-04:00
+[System]        FileInodeChangeDate             : 2026:10:25 20:55:36-04:00
+[System]        FilePermissions                 : -rw-rw-r--
+[File]          FileType                        : TXT
+[File]          FileTypeExtension               : txt
+[File]          MIMEType                        : text/plain
+[File]          MIMEEncoding                    : iso-8859-1
+[File]          Newlines                        : Unix LF
+[File]          LineCount                       : 32449
+[File]          WordCount                       : 32449
+======== recovered/recup_dir.1/f0362161.txt
+[ExifTool]      ExifToolVersion                 : 13.55
+[System]        FileName                        : f0362161.txt
+[System]        Directory                       : recovered/recup_dir.1
+[System]        FileSize                        : 261 kB
+[System]        FileModifyDate                  : 2026:10:25 20:55:36-04:00
+[System]        FileAccessDate                  : 2026:10:25 21:47:55-04:00
+[System]        FileInodeChangeDate             : 2026:10:25 20:55:36-04:00
+[System]        FilePermissions                 : -rw-rw-r--
+[File]          FileType                        : TXT
+[File]          FileTypeExtension               : txt
+[File]          MIMEType                        : text/plain
+[File]          MIMEEncoding                    : iso-8859-1
+[File]          Newlines                        : Unix LF
+[File]          LineCount                       : 32577
+[File]          WordCount                       : 32577
+======== recovered/recup_dir.1/f0362673.txt
+[ExifTool]      ExifToolVersion                 : 13.55
+[System]        FileName                        : f0362673.txt
+[System]        Directory                       : recovered/recup_dir.1
+[System]        FileSize                        : 262 kB
+[System]        FileModifyDate                  : 2026:10:25 20:55:36-04:00
+[System]        FileAccessDate                  : 2026:10:25 21:47:54-04:00
+[System]        FileInodeChangeDate             : 2026:10:25 20:55:36-04:00
+[System]        FilePermissions                 : -rw-rw-r--
+[File]          FileType                        : TXT
+[File]          FileTypeExtension               : txt
+[File]          MIMEType                        : text/plain
+[File]          MIMEEncoding                    : iso-8859-1
+[File]          Newlines                        : Unix LF
+[File]          LineCount                       : 32705
+[File]          WordCount                       : 32705
+======== recovered/recup_dir.1/f0363193.txt
+[ExifTool]      ExifToolVersion                 : 13.55
+[System]        FileName                        : f0363193.txt
+[System]        Directory                       : recovered/recup_dir.1
+[System]        FileSize                        : 259 kB
+[System]        FileModifyDate                  : 2026:10:25 20:55:36-04:00
+[System]        FileAccessDate                  : 2026:10:25 21:47:59-04:00
+[System]        FileInodeChangeDate             : 2026:10:25 20:55:36-04:00
+[System]        FilePermissions                 : -rw-rw-r--
+[File]          FileType                        : TXT
+[File]          FileTypeExtension               : txt
+[File]          MIMEType                        : text/plain
+[File]          MIMEEncoding                    : iso-8859-1
+[File]          Newlines                        : Unix LF
+[File]          LineCount                       : 32321
+[File]          WordCount                       : 32321
+======== recovered/recup_dir.1/f0363705.txt
+[ExifTool]      ExifToolVersion                 : 13.55
+[System]        FileName                        : f0363705.txt
+[System]        Directory                       : recovered/recup_dir.1
+[System]        FileSize                        : 260 kB
+[System]        FileModifyDate                  : 2026:10:25 20:55:36-04:00
+[System]        FileAccessDate                  : 2026:10:25 21:48:07-04:00
+[System]        FileInodeChangeDate             : 2026:10:25 20:55:36-04:00
+[System]        FilePermissions                 : -rw-rw-r--
+[File]          FileType                        : TXT
+[File]          FileTypeExtension               : txt
+[File]          MIMEType                        : text/plain
+[File]          MIMEEncoding                    : iso-8859-1
+[File]          Newlines                        : Unix LF
+[File]          LineCount                       : 32449
+[File]          WordCount                       : 32449
+======== recovered/recup_dir.1/f0364217.txt
+[ExifTool]      ExifToolVersion                 : 13.55
+[System]        FileName                        : f0364217.txt
+[System]        Directory                       : recovered/recup_dir.1
+[System]        FileSize                        : 261 kB
+[System]        FileModifyDate                  : 2026:10:25 20:55:36-04:00
+[System]        FileAccessDate                  : 2026:10:25 21:48:08-04:00
+[System]        FileInodeChangeDate             : 2026:10:25 20:55:36-04:00
+[System]        FilePermissions                 : -rw-rw-r--
+[File]          FileType                        : TXT
+[File]          FileTypeExtension               : txt
+[File]          MIMEType                        : text/plain
+[File]          MIMEEncoding                    : iso-8859-1
+[File]          Newlines                        : Unix LF
+[File]          LineCount                       : 32577
+[File]          WordCount                       : 32577
+======== recovered/recup_dir.1/f0364729.txt
+[ExifTool]      ExifToolVersion                 : 13.55
+[System]        FileName                        : f0364729.txt
+[System]        Directory                       : recovered/recup_dir.1
+[System]        FileSize                        : 262 kB
+[System]        FileModifyDate                  : 2026:10:25 20:55:36-04:00
+[System]        FileAccessDate                  : 2026:10:25 21:47:54-04:00
+[System]        FileInodeChangeDate             : 2026:10:25 20:55:36-04:00
+[System]        FilePermissions                 : -rw-rw-r--
+[File]          FileType                        : TXT
+[File]          FileTypeExtension               : txt
+[File]          MIMEType                        : text/plain
+[File]          MIMEEncoding                    : iso-8859-1
+[File]          Newlines                        : Unix LF
+[File]          LineCount                       : 32705
+[File]          WordCount                       : 32705
+======== recovered/recup_dir.1/f0365249.txt
+[ExifTool]      ExifToolVersion                 : 13.55
+[System]        FileName                        : f0365249.txt
+[System]        Directory                       : recovered/recup_dir.1
+[System]        FileSize                        : 259 kB
+[System]        FileModifyDate                  : 2026:10:25 20:55:36-04:00
+[System]        FileAccessDate                  : 2026:10:25 21:47:59-04:00
+[System]        FileInodeChangeDate             : 2026:10:25 20:55:36-04:00
+[System]        FilePermissions                 : -rw-rw-r--
+[File]          FileType                        : TXT
+[File]          FileTypeExtension               : txt
+[File]          MIMEType                        : text/plain
+[File]          MIMEEncoding                    : iso-8859-1
+[File]          Newlines                        : Unix LF
+[File]          LineCount                       : 32321
+[File]          WordCount                       : 32321
+======== recovered/recup_dir.1/f0365761.txt
+[ExifTool]      ExifToolVersion                 : 13.55
+[System]        FileName                        : f0365761.txt
+[System]        Directory                       : recovered/recup_dir.1
+[System]        FileSize                        : 260 kB
+[System]        FileModifyDate                  : 2026:10:25 20:55:36-04:00
+[System]        FileAccessDate                  : 2026:10:25 21:47:54-04:00
+[System]        FileInodeChangeDate             : 2026:10:25 20:55:36-04:00
+[System]        FilePermissions                 : -rw-rw-r--
+[File]          FileType                        : TXT
+[File]          FileTypeExtension               : txt
+[File]          MIMEType                        : text/plain
+[File]          MIMEEncoding                    : iso-8859-1
+[File]          Newlines                        : Unix LF
+[File]          LineCount                       : 32449
+[File]          WordCount                       : 32449
+======== recovered/recup_dir.1/f0366273.txt
+[ExifTool]      ExifToolVersion                 : 13.55
+[System]        FileName                        : f0366273.txt
+[System]        Directory                       : recovered/recup_dir.1
+[System]        FileSize                        : 261 kB
+[System]        FileModifyDate                  : 2026:10:25 20:55:36-04:00
+[System]        FileAccessDate                  : 2026:10:25 21:47:55-04:00
+[System]        FileInodeChangeDate             : 2026:10:25 20:55:36-04:00
+[System]        FilePermissions                 : -rw-rw-r--
+[File]          FileType                        : TXT
+[File]          FileTypeExtension               : txt
+[File]          MIMEType                        : text/plain
+[File]          MIMEEncoding                    : iso-8859-1
+[File]          Newlines                        : Unix LF
+[File]          LineCount                       : 32577
+[File]          WordCount                       : 32577
+======== recovered/recup_dir.1/f0366785.txt
+[ExifTool]      ExifToolVersion                 : 13.55
+[System]        FileName                        : f0366785.txt
+[System]        Directory                       : recovered/recup_dir.1
+[System]        FileSize                        : 262 kB
+[System]        FileModifyDate                  : 2026:10:25 20:55:36-04:00
+[System]        FileAccessDate                  : 2026:10:25 21:47:54-04:00
+[System]        FileInodeChangeDate             : 2026:10:25 20:55:36-04:00
+[System]        FilePermissions                 : -rw-rw-r--
+[File]          FileType                        : TXT
+[File]          FileTypeExtension               : txt
+[File]          MIMEType                        : text/plain
+[File]          MIMEEncoding                    : iso-8859-1
+[File]          Newlines                        : Unix LF
+[File]          LineCount                       : 32705
+[File]          WordCount                       : 32705
+======== recovered/recup_dir.1/f0367305.txt
+[ExifTool]      ExifToolVersion                 : 13.55
+[System]        FileName                        : f0367305.txt
+[System]        Directory                       : recovered/recup_dir.1
+[System]        FileSize                        : 259 kB
+[System]        FileModifyDate                  : 2026:10:25 20:55:36-04:00
+[System]        FileAccessDate                  : 2026:10:25 21:48:06-04:00
+[System]        FileInodeChangeDate             : 2026:10:25 20:55:36-04:00
+[System]        FilePermissions                 : -rw-rw-r--
+[File]          FileType                        : TXT
+[File]          FileTypeExtension               : txt
+[File]          MIMEType                        : text/plain
+[File]          MIMEEncoding                    : iso-8859-1
+[File]          Newlines                        : Unix LF
+[File]          LineCount                       : 32321
+[File]          WordCount                       : 32321
+======== recovered/recup_dir.1/f0367817.txt
+[ExifTool]      ExifToolVersion                 : 13.55
+[System]        FileName                        : f0367817.txt
+[System]        Directory                       : recovered/recup_dir.1
+[System]        FileSize                        : 260 kB
+[System]        FileModifyDate                  : 2026:10:25 20:55:36-04:00
+[System]        FileAccessDate                  : 2026:10:25 21:48:03-04:00
+[System]        FileInodeChangeDate             : 2026:10:25 20:55:36-04:00
+[System]        FilePermissions                 : -rw-rw-r--
+[File]          FileType                        : TXT
+[File]          FileTypeExtension               : txt
+[File]          MIMEType                        : text/plain
+[File]          MIMEEncoding                    : iso-8859-1
+[File]          Newlines                        : Unix LF
+[File]          LineCount                       : 32449
+[File]          WordCount                       : 32449
+======== recovered/recup_dir.1/f0368329.txt
+[ExifTool]      ExifToolVersion                 : 13.55
+[System]        FileName                        : f0368329.txt
+[System]        Directory                       : recovered/recup_dir.1
+[System]        FileSize                        : 261 kB
+[System]        FileModifyDate                  : 2026:10:25 20:55:36-04:00
+[System]        FileAccessDate                  : 2026:10:25 21:48:04-04:00
+[System]        FileInodeChangeDate             : 2026:10:25 20:55:36-04:00
+[System]        FilePermissions                 : -rw-rw-r--
+[File]          FileType                        : TXT
+[File]          FileTypeExtension               : txt
+[File]          MIMEType                        : text/plain
+[File]          MIMEEncoding                    : iso-8859-1
+[File]          Newlines                        : Unix LF
+[File]          LineCount                       : 32577
+[File]          WordCount                       : 32577
+======== recovered/recup_dir.1/f0368841.txt
+[ExifTool]      ExifToolVersion                 : 13.55
+[System]        FileName                        : f0368841.txt
+[System]        Directory                       : recovered/recup_dir.1
+[System]        FileSize                        : 262 kB
+[System]        FileModifyDate                  : 2026:10:25 20:55:36-04:00
+[System]        FileAccessDate                  : 2026:10:25 21:47:54-04:00
+[System]        FileInodeChangeDate             : 2026:10:25 20:55:36-04:00
+[System]        FilePermissions                 : -rw-rw-r--
+[File]          FileType                        : TXT
+[File]          FileTypeExtension               : txt
+[File]          MIMEType                        : text/plain
+[File]          MIMEEncoding                    : iso-8859-1
+[File]          Newlines                        : Unix LF
+[File]          LineCount                       : 32705
+[File]          WordCount                       : 32705
+======== recovered/recup_dir.1/f0369361.txt
+[ExifTool]      ExifToolVersion                 : 13.55
+[System]        FileName                        : f0369361.txt
+[System]        Directory                       : recovered/recup_dir.1
+[System]        FileSize                        : 259 kB
+[System]        FileModifyDate                  : 2026:10:25 20:55:36-04:00
+[System]        FileAccessDate                  : 2026:10:25 21:47:58-04:00
+[System]        FileInodeChangeDate             : 2026:10:25 20:55:36-04:00
+[System]        FilePermissions                 : -rw-rw-r--
+[File]          FileType                        : TXT
+[File]          FileTypeExtension               : txt
+[File]          MIMEType                        : text/plain
+[File]          MIMEEncoding                    : iso-8859-1
+[File]          Newlines                        : Unix LF
+[File]          LineCount                       : 32321
+[File]          WordCount                       : 32321
+======== recovered/recup_dir.1/f0369873.txt
+[ExifTool]      ExifToolVersion                 : 13.55
+[System]        FileName                        : f0369873.txt
+[System]        Directory                       : recovered/recup_dir.1
+[System]        FileSize                        : 260 kB
+[System]        FileModifyDate                  : 2026:10:25 20:55:37-04:00
+[System]        FileAccessDate                  : 2026:10:25 21:47:58-04:00
+[System]        FileInodeChangeDate             : 2026:10:25 20:55:37-04:00
+[System]        FilePermissions                 : -rw-rw-r--
+[File]          FileType                        : TXT
+[File]          FileTypeExtension               : txt
+[File]          MIMEType                        : text/plain
+[File]          MIMEEncoding                    : iso-8859-1
+[File]          Newlines                        : Unix LF
+[File]          LineCount                       : 32449
+[File]          WordCount                       : 32449
+======== recovered/recup_dir.1/f0370385.txt
+[ExifTool]      ExifToolVersion                 : 13.55
+[System]        FileName                        : f0370385.txt
+[System]        Directory                       : recovered/recup_dir.1
+[System]        FileSize                        : 261 kB
+[System]        FileModifyDate                  : 2026:10:25 20:55:37-04:00
+[System]        FileAccessDate                  : 2026:10:25 21:47:58-04:00
+[System]        FileInodeChangeDate             : 2026:10:25 20:55:37-04:00
+[System]        FilePermissions                 : -rw-rw-r--
+[File]          FileType                        : TXT
+[File]          FileTypeExtension               : txt
+[File]          MIMEType                        : text/plain
+[File]          MIMEEncoding                    : iso-8859-1
+[File]          Newlines                        : Unix LF
+[File]          LineCount                       : 32577
+[File]          WordCount                       : 32577
+======== recovered/recup_dir.1/f0370897.txt
+[ExifTool]      ExifToolVersion                 : 13.55
+[System]        FileName                        : f0370897.txt
+[System]        Directory                       : recovered/recup_dir.1
+[System]        FileSize                        : 262 kB
+[System]        FileModifyDate                  : 2026:10:25 20:55:37-04:00
+[System]        FileAccessDate                  : 2026:10:25 21:48:05-04:00
+[System]        FileInodeChangeDate             : 2026:10:25 20:55:37-04:00
+[System]        FilePermissions                 : -rw-rw-r--
+[File]          FileType                        : TXT
+[File]          FileTypeExtension               : txt
+[File]          MIMEType                        : text/plain
+[File]          MIMEEncoding                    : iso-8859-1
+[File]          Newlines                        : Unix LF
+[File]          LineCount                       : 32705
+[File]          WordCount                       : 32705
+======== recovered/recup_dir.1/f0371417.txt
+[ExifTool]      ExifToolVersion                 : 13.55
+[System]        FileName                        : f0371417.txt
+[System]        Directory                       : recovered/recup_dir.1
+[System]        FileSize                        : 259 kB
+[System]        FileModifyDate                  : 2026:10:25 20:55:37-04:00
+[System]        FileAccessDate                  : 2026:10:25 21:48:06-04:00
+[System]        FileInodeChangeDate             : 2026:10:25 20:55:37-04:00
+[System]        FilePermissions                 : -rw-rw-r--
+[File]          FileType                        : TXT
+[File]          FileTypeExtension               : txt
+[File]          MIMEType                        : text/plain
+[File]          MIMEEncoding                    : iso-8859-1
+[File]          Newlines                        : Unix LF
+[File]          LineCount                       : 32321
+[File]          WordCount                       : 32321
+======== recovered/recup_dir.1/f0371929.txt
+[ExifTool]      ExifToolVersion                 : 13.55
+[System]        FileName                        : f0371929.txt
+[System]        Directory                       : recovered/recup_dir.1
+[System]        FileSize                        : 260 kB
+[System]        FileModifyDate                  : 2026:10:25 20:55:37-04:00
+[System]        FileAccessDate                  : 2026:10:25 21:48:06-04:00
+[System]        FileInodeChangeDate             : 2026:10:25 20:55:37-04:00
+[System]        FilePermissions                 : -rw-rw-r--
+[File]          FileType                        : TXT
+[File]          FileTypeExtension               : txt
+[File]          MIMEType                        : text/plain
+[File]          MIMEEncoding                    : iso-8859-1
+[File]          Newlines                        : Unix LF
+[File]          LineCount                       : 32449
+[File]          WordCount                       : 32449
+======== recovered/recup_dir.1/f0372441.txt
+[ExifTool]      ExifToolVersion                 : 13.55
+[System]        FileName                        : f0372441.txt
+[System]        Directory                       : recovered/recup_dir.1
+[System]        FileSize                        : 261 kB
+[System]        FileModifyDate                  : 2026:10:25 20:55:37-04:00
+[System]        FileAccessDate                  : 2026:10:25 21:48:07-04:00
+[System]        FileInodeChangeDate             : 2026:10:25 20:55:37-04:00
+[System]        FilePermissions                 : -rw-rw-r--
+[File]          FileType                        : TXT
+[File]          FileTypeExtension               : txt
+[File]          MIMEType                        : text/plain
+[File]          MIMEEncoding                    : iso-8859-1
+[File]          Newlines                        : Unix LF
+[File]          LineCount                       : 32577
+[File]          WordCount                       : 32577
+======== recovered/recup_dir.1/f0372953.txt
+[ExifTool]      ExifToolVersion                 : 13.55
+[System]        FileName                        : f0372953.txt
+[System]        Directory                       : recovered/recup_dir.1
+[System]        FileSize                        : 262 kB
+[System]        FileModifyDate                  : 2026:10:25 20:55:37-04:00
+[System]        FileAccessDate                  : 2026:10:25 21:48:05-04:00
+[System]        FileInodeChangeDate             : 2026:10:25 20:55:37-04:00
+[System]        FilePermissions                 : -rw-rw-r--
+[File]          FileType                        : TXT
+[File]          FileTypeExtension               : txt
+[File]          MIMEType                        : text/plain
+[File]          MIMEEncoding                    : iso-8859-1
+[File]          Newlines                        : Unix LF
+[File]          LineCount                       : 32705
+[File]          WordCount                       : 32705
+======== recovered/recup_dir.1/f0373473.txt
+[ExifTool]      ExifToolVersion                 : 13.55
+[System]        FileName                        : f0373473.txt
+[System]        Directory                       : recovered/recup_dir.1
+[System]        FileSize                        : 259 kB
+[System]        FileModifyDate                  : 2026:10:25 20:55:37-04:00
+[System]        FileAccessDate                  : 2026:10:25 21:48:05-04:00
+[System]        FileInodeChangeDate             : 2026:10:25 20:55:37-04:00
+[System]        FilePermissions                 : -rw-rw-r--
+[File]          FileType                        : TXT
+[File]          FileTypeExtension               : txt
+[File]          MIMEType                        : text/plain
+[File]          MIMEEncoding                    : iso-8859-1
+[File]          Newlines                        : Unix LF
+[File]          LineCount                       : 32321
+[File]          WordCount                       : 32321
+======== recovered/recup_dir.1/f0373985.txt
+[ExifTool]      ExifToolVersion                 : 13.55
+[System]        FileName                        : f0373985.txt
+[System]        Directory                       : recovered/recup_dir.1
+[System]        FileSize                        : 260 kB
+[System]        FileModifyDate                  : 2026:10:25 20:55:37-04:00
+[System]        FileAccessDate                  : 2026:10:25 21:48:08-04:00
+[System]        FileInodeChangeDate             : 2026:10:25 20:55:37-04:00
+[System]        FilePermissions                 : -rw-rw-r--
+[File]          FileType                        : TXT
+[File]          FileTypeExtension               : txt
+[File]          MIMEType                        : text/plain
+[File]          MIMEEncoding                    : iso-8859-1
+[File]          Newlines                        : Unix LF
+[File]          LineCount                       : 32449
+[File]          WordCount                       : 32449
+======== recovered/recup_dir.1/f0374497.txt
+[ExifTool]      ExifToolVersion                 : 13.55
+[System]        FileName                        : f0374497.txt
+[System]        Directory                       : recovered/recup_dir.1
+[System]        FileSize                        : 261 kB
+[System]        FileModifyDate                  : 2026:10:25 20:55:37-04:00
+[System]        FileAccessDate                  : 2026:10:25 21:48:03-04:00
+[System]        FileInodeChangeDate             : 2026:10:25 20:55:37-04:00
+[System]        FilePermissions                 : -rw-rw-r--
+[File]          FileType                        : TXT
+[File]          FileTypeExtension               : txt
+[File]          MIMEType                        : text/plain
+[File]          MIMEEncoding                    : iso-8859-1
+[File]          Newlines                        : Unix LF
+[File]          LineCount                       : 32577
+[File]          WordCount                       : 32577
+======== recovered/recup_dir.1/f0375009.txt
+[ExifTool]      ExifToolVersion                 : 13.55
+[System]        FileName                        : f0375009.txt
+[System]        Directory                       : recovered/recup_dir.1
+[System]        FileSize                        : 262 kB
+[System]        FileModifyDate                  : 2026:10:25 20:55:37-04:00
+[System]        FileAccessDate                  : 2026:10:25 21:48:06-04:00
+[System]        FileInodeChangeDate             : 2026:10:25 20:55:37-04:00
+[System]        FilePermissions                 : -rw-rw-r--
+[File]          FileType                        : TXT
+[File]          FileTypeExtension               : txt
+[File]          MIMEType                        : text/plain
+[File]          MIMEEncoding                    : iso-8859-1
+[File]          Newlines                        : Unix LF
+[File]          LineCount                       : 32705
+[File]          WordCount                       : 32705
+======== recovered/recup_dir.1/f0375529.txt
+[ExifTool]      ExifToolVersion                 : 13.55
+[System]        FileName                        : f0375529.txt
+[System]        Directory                       : recovered/recup_dir.1
+[System]        FileSize                        : 259 kB
+[System]        FileModifyDate                  : 2026:10:25 20:55:37-04:00
+[System]        FileAccessDate                  : 2026:10:25 21:48:06-04:00
+[System]        FileInodeChangeDate             : 2026:10:25 20:55:37-04:00
+[System]        FilePermissions                 : -rw-rw-r--
+[File]          FileType                        : TXT
+[File]          FileTypeExtension               : txt
+[File]          MIMEType                        : text/plain
+[File]          MIMEEncoding                    : iso-8859-1
+[File]          Newlines                        : Unix LF
+[File]          LineCount                       : 32321
+[File]          WordCount                       : 32321
+======== recovered/recup_dir.1/f0376041.txt
+[ExifTool]      ExifToolVersion                 : 13.55
+[System]        FileName                        : f0376041.txt
+[System]        Directory                       : recovered/recup_dir.1
+[System]        FileSize                        : 260 kB
+[System]        FileModifyDate                  : 2026:10:25 20:55:37-04:00
+[System]        FileAccessDate                  : 2026:10:25 21:47:54-04:00
+[System]        FileInodeChangeDate             : 2026:10:25 20:55:37-04:00
+[System]        FilePermissions                 : -rw-rw-r--
+[File]          FileType                        : TXT
+[File]          FileTypeExtension               : txt
+[File]          MIMEType                        : text/plain
+[File]          MIMEEncoding                    : iso-8859-1
+[File]          Newlines                        : Unix LF
+[File]          LineCount                       : 32449
+[File]          WordCount                       : 32449
+======== recovered/recup_dir.1/f0376553.txt
+[ExifTool]      ExifToolVersion                 : 13.55
+[System]        FileName                        : f0376553.txt
+[System]        Directory                       : recovered/recup_dir.1
+[System]        FileSize                        : 144 kB
+[System]        FileModifyDate                  : 2026:10:25 20:55:37-04:00
+[System]        FileAccessDate                  : 2026:10:25 21:47:59-04:00
+[System]        FileInodeChangeDate             : 2026:10:25 20:55:37-04:00
+[System]        FilePermissions                 : -rw-rw-r--
+[File]          FileType                        : TXT
+[File]          FileTypeExtension               : txt
+[File]          MIMEType                        : text/plain
+[File]          MIMEEncoding                    : us-ascii
+[File]          Newlines                        : Unix LF
+[File]          LineCount                       : 17984
+[File]          WordCount                       : 17984
+======== recovered/recup_dir.1/f0377353.txt
+[ExifTool]      ExifToolVersion                 : 13.55
+[System]        FileName                        : f0377353.txt
+[System]        Directory                       : recovered/recup_dir.1
+[System]        FileSize                        : 115 kB
+[System]        FileModifyDate                  : 2026:10:25 20:55:37-04:00
+[System]        FileAccessDate                  : 2026:10:25 21:47:59-04:00
+[System]        FileInodeChangeDate             : 2026:10:25 20:55:37-04:00
+[System]        FilePermissions                 : -rw-rw-r--
+[File]          FileType                        : TXT
+[File]          FileTypeExtension               : txt
+[File]          MIMEType                        : text/plain
+[File]          MIMEEncoding                    : iso-8859-1
+[File]          Newlines                        : Unix LF
+[File]          LineCount                       : 14401
+[File]          WordCount                       : 14401
+======== recovered/recup_dir.1/f0377585.txt
+[ExifTool]      ExifToolVersion                 : 13.55
+[System]        FileName                        : f0377585.txt
+[System]        Directory                       : recovered/recup_dir.1
+[System]        FileSize                        : 260 kB
+[System]        FileModifyDate                  : 2026:10:25 20:55:37-04:00
+[System]        FileAccessDate                  : 2026:10:25 21:47:55-04:00
+[System]        FileInodeChangeDate             : 2026:10:25 20:55:37-04:00
+[System]        FilePermissions                 : -rw-rw-r--
+[File]          FileType                        : TXT
+[File]          FileTypeExtension               : txt
+[File]          MIMEType                        : text/plain
+[File]          MIMEEncoding                    : iso-8859-1
+[File]          Newlines                        : Unix LF
+[File]          LineCount                       : 32449
+[File]          WordCount                       : 32449
+======== recovered/recup_dir.1/f0378097.txt
+[ExifTool]      ExifToolVersion                 : 13.55
+[System]        FileName                        : f0378097.txt
+[System]        Directory                       : recovered/recup_dir.1
+[System]        FileSize                        : 261 kB
+[System]        FileModifyDate                  : 2026:10:25 20:55:37-04:00
+[System]        FileAccessDate                  : 2026:10:25 21:47:55-04:00
+[System]        FileInodeChangeDate             : 2026:10:25 20:55:37-04:00
+[System]        FilePermissions                 : -rw-rw-r--
+[File]          FileType                        : TXT
+[File]          FileTypeExtension               : txt
+[File]          MIMEType                        : text/plain
+[File]          MIMEEncoding                    : iso-8859-1
+[File]          Newlines                        : Unix LF
+[File]          LineCount                       : 32577
+[File]          WordCount                       : 32577
+======== recovered/recup_dir.1/f0378609.txt
+[ExifTool]      ExifToolVersion                 : 13.55
+[System]        FileName                        : f0378609.txt
+[System]        Directory                       : recovered/recup_dir.1
+[System]        FileSize                        : 262 kB
+[System]        FileModifyDate                  : 2026:10:25 20:55:37-04:00
+[System]        FileAccessDate                  : 2026:10:25 21:47:55-04:00
+[System]        FileInodeChangeDate             : 2026:10:25 20:55:37-04:00
+[System]        FilePermissions                 : -rw-rw-r--
+[File]          FileType                        : TXT
+[File]          FileTypeExtension               : txt
+[File]          MIMEType                        : text/plain
+[File]          MIMEEncoding                    : iso-8859-1
+[File]          Newlines                        : Unix LF
+[File]          LineCount                       : 32705
+[File]          WordCount                       : 32705
+======== recovered/recup_dir.1/f0379129.txt
+[ExifTool]      ExifToolVersion                 : 13.55
+[System]        FileName                        : f0379129.txt
+[System]        Directory                       : recovered/recup_dir.1
+[System]        FileSize                        : 259 kB
+[System]        FileModifyDate                  : 2026:10:25 20:55:37-04:00
+[System]        FileAccessDate                  : 2026:10:25 21:48:03-04:00
+[System]        FileInodeChangeDate             : 2026:10:25 20:55:37-04:00
+[System]        FilePermissions                 : -rw-rw-r--
+[File]          FileType                        : TXT
+[File]          FileTypeExtension               : txt
+[File]          MIMEType                        : text/plain
+[File]          MIMEEncoding                    : iso-8859-1
+[File]          Newlines                        : Unix LF
+[File]          LineCount                       : 32321
+[File]          WordCount                       : 32321
+======== recovered/recup_dir.1/f0379641.txt
+[ExifTool]      ExifToolVersion                 : 13.55
+[System]        FileName                        : f0379641.txt
+[System]        Directory                       : recovered/recup_dir.1
+[System]        FileSize                        : 260 kB
+[System]        FileModifyDate                  : 2026:10:25 20:55:37-04:00
+[System]        FileAccessDate                  : 2026:10:25 21:48:03-04:00
+[System]        FileInodeChangeDate             : 2026:10:25 20:55:37-04:00
+[System]        FilePermissions                 : -rw-rw-r--
+[File]          FileType                        : TXT
+[File]          FileTypeExtension               : txt
+[File]          MIMEType                        : text/plain
+[File]          MIMEEncoding                    : iso-8859-1
+[File]          Newlines                        : Unix LF
+[File]          LineCount                       : 32449
+[File]          WordCount                       : 32449
+======== recovered/recup_dir.1/f0380153.txt
+[ExifTool]      ExifToolVersion                 : 13.55
+[System]        FileName                        : f0380153.txt
+[System]        Directory                       : recovered/recup_dir.1
+[System]        FileSize                        : 261 kB
+[System]        FileModifyDate                  : 2026:10:25 20:55:37-04:00
+[System]        FileAccessDate                  : 2026:10:25 21:47:54-04:00
+[System]        FileInodeChangeDate             : 2026:10:25 20:55:37-04:00
+[System]        FilePermissions                 : -rw-rw-r--
+[File]          FileType                        : TXT
+[File]          FileTypeExtension               : txt
+[File]          MIMEType                        : text/plain
+[File]          MIMEEncoding                    : iso-8859-1
+[File]          Newlines                        : Unix LF
+[File]          LineCount                       : 32577
+[File]          WordCount                       : 32577
+======== recovered/recup_dir.1/f0380665.txt
+[ExifTool]      ExifToolVersion                 : 13.55
+[System]        FileName                        : f0380665.txt
+[System]        Directory                       : recovered/recup_dir.1
+[System]        FileSize                        : 262 kB
+[System]        FileModifyDate                  : 2026:10:25 20:55:37-04:00
+[System]        FileAccessDate                  : 2026:10:25 21:48:06-04:00
+[System]        FileInodeChangeDate             : 2026:10:25 20:55:37-04:00
+[System]        FilePermissions                 : -rw-rw-r--
+[File]          FileType                        : TXT
+[File]          FileTypeExtension               : txt
+[File]          MIMEType                        : text/plain
+[File]          MIMEEncoding                    : iso-8859-1
+[File]          Newlines                        : Unix LF
+[File]          LineCount                       : 32705
+[File]          WordCount                       : 32705
+======== recovered/recup_dir.1/f0381185.txt
+[ExifTool]      ExifToolVersion                 : 13.55
+[System]        FileName                        : f0381185.txt
+[System]        Directory                       : recovered/recup_dir.1
+[System]        FileSize                        : 259 kB
+[System]        FileModifyDate                  : 2026:10:25 20:55:37-04:00
+[System]        FileAccessDate                  : 2026:10:25 21:48:08-04:00
+[System]        FileInodeChangeDate             : 2026:10:25 20:55:37-04:00
+[System]        FilePermissions                 : -rw-rw-r--
+[File]          FileType                        : TXT
+[File]          FileTypeExtension               : txt
+[File]          MIMEType                        : text/plain
+[File]          MIMEEncoding                    : iso-8859-1
+[File]          Newlines                        : Unix LF
+[File]          LineCount                       : 32321
+[File]          WordCount                       : 32321
+======== recovered/recup_dir.1/f0381697.txt
+[ExifTool]      ExifToolVersion                 : 13.55
+[System]        FileName                        : f0381697.txt
+[System]        Directory                       : recovered/recup_dir.1
+[System]        FileSize                        : 260 kB
+[System]        FileModifyDate                  : 2026:10:25 20:55:37-04:00
+[System]        FileAccessDate                  : 2026:10:25 21:48:07-04:00
+[System]        FileInodeChangeDate             : 2026:10:25 20:55:37-04:00
+[System]        FilePermissions                 : -rw-rw-r--
+[File]          FileType                        : TXT
+[File]          FileTypeExtension               : txt
+[File]          MIMEType                        : text/plain
+[File]          MIMEEncoding                    : us-ascii
+[File]          Newlines                        : Unix LF
+[File]          LineCount                       : 32448
+[File]          WordCount                       : 32448
+======== recovered/recup_dir.1/f0382209.txt
+[ExifTool]      ExifToolVersion                 : 13.55
+[System]        FileName                        : f0382209.txt
+[System]        Directory                       : recovered/recup_dir.1
+[System]        FileSize                        : 261 kB
+[System]        FileModifyDate                  : 2026:10:25 20:55:37-04:00
+[System]        FileAccessDate                  : 2026:10:25 21:47:54-04:00
+[System]        FileInodeChangeDate             : 2026:10:25 20:55:37-04:00
+[System]        FilePermissions                 : -rw-rw-r--
+[File]          FileType                        : TXT
+[File]          FileTypeExtension               : txt
+[File]          MIMEType                        : text/plain
+[File]          MIMEEncoding                    : unknown-8bit
+[File]          Newlines                        : Unix LF
+[File]          LineCount                       : 32577
+[File]          WordCount                       : 32577
+======== recovered/recup_dir.1/f0382721.txt
+[ExifTool]      ExifToolVersion                 : 13.55
+[System]        FileName                        : f0382721.txt
+[System]        Directory                       : recovered/recup_dir.1
+[System]        FileSize                        : 262 kB
+[System]        FileModifyDate                  : 2026:10:25 20:55:37-04:00
+[System]        FileAccessDate                  : 2026:10:25 21:48:03-04:00
+[System]        FileInodeChangeDate             : 2026:10:25 20:55:37-04:00
+[System]        FilePermissions                 : -rw-rw-r--
+[File]          FileType                        : TXT
+[File]          FileTypeExtension               : txt
+[File]          MIMEType                        : text/plain
+[File]          MIMEEncoding                    : unknown-8bit
+[File]          Newlines                        : Unix LF
+[File]          LineCount                       : 32705
+[File]          WordCount                       : 32705
+======== recovered/recup_dir.1/f0383241.txt
+[ExifTool]      ExifToolVersion                 : 13.55
+[System]        FileName                        : f0383241.txt
+[System]        Directory                       : recovered/recup_dir.1
+[System]        FileSize                        : 259 kB
+[System]        FileModifyDate                  : 2026:10:25 20:55:37-04:00
+[System]        FileAccessDate                  : 2026:10:25 21:48:06-04:00
+[System]        FileInodeChangeDate             : 2026:10:25 20:55:37-04:00
+[System]        FilePermissions                 : -rw-rw-r--
+[File]          FileType                        : TXT
+[File]          FileTypeExtension               : txt
+[File]          MIMEType                        : text/plain
+[File]          MIMEEncoding                    : unknown-8bit
+[File]          Newlines                        : Unix LF
+[File]          LineCount                       : 32321
+[File]          WordCount                       : 32321
+======== recovered/recup_dir.1/f0383753.txt
+[ExifTool]      ExifToolVersion                 : 13.55
+[System]        FileName                        : f0383753.txt
+[System]        Directory                       : recovered/recup_dir.1
+[System]        FileSize                        : 260 kB
+[System]        FileModifyDate                  : 2026:10:25 20:55:37-04:00
+[System]        FileAccessDate                  : 2026:10:25 21:48:03-04:00
+[System]        FileInodeChangeDate             : 2026:10:25 20:55:37-04:00
+[System]        FilePermissions                 : -rw-rw-r--
+[File]          FileType                        : TXT
+[File]          FileTypeExtension               : txt
+[File]          MIMEType                        : text/plain
+[File]          MIMEEncoding                    : unknown-8bit
+[File]          Newlines                        : Unix LF
+[File]          LineCount                       : 32449
+[File]          WordCount                       : 32449
+======== recovered/recup_dir.1/f0384265.txt
+[ExifTool]      ExifToolVersion                 : 13.55
+[System]        FileName                        : f0384265.txt
+[System]        Directory                       : recovered/recup_dir.1
+[System]        FileSize                        : 261 kB
+[System]        FileModifyDate                  : 2026:10:25 20:55:37-04:00
+[System]        FileAccessDate                  : 2026:10:25 21:47:54-04:00
+[System]        FileInodeChangeDate             : 2026:10:25 20:55:37-04:00
+[System]        FilePermissions                 : -rw-rw-r--
+[File]          FileType                        : TXT
+[File]          FileTypeExtension               : txt
+[File]          MIMEType                        : text/plain
+[File]          MIMEEncoding                    : unknown-8bit
+[File]          Newlines                        : Unix LF
+[File]          LineCount                       : 32577
+[File]          WordCount                       : 32577
+======== recovered/recup_dir.1/f0384777.txt
+[ExifTool]      ExifToolVersion                 : 13.55
+[System]        FileName                        : f0384777.txt
+[System]        Directory                       : recovered/recup_dir.1
+[System]        FileSize                        : 262 kB
+[System]        FileModifyDate                  : 2026:10:25 20:55:37-04:00
+[System]        FileAccessDate                  : 2026:10:25 21:48:06-04:00
+[System]        FileInodeChangeDate             : 2026:10:25 20:55:37-04:00
+[System]        FilePermissions                 : -rw-rw-r--
+[File]          FileType                        : TXT
+[File]          FileTypeExtension               : txt
+[File]          MIMEType                        : text/plain
+[File]          MIMEEncoding                    : unknown-8bit
+[File]          Newlines                        : Unix LF
+[File]          LineCount                       : 32705
+[File]          WordCount                       : 32705
+======== recovered/recup_dir.1/f0385297.txt
+[ExifTool]      ExifToolVersion                 : 13.55
+[System]        FileName                        : f0385297.txt
+[System]        Directory                       : recovered/recup_dir.1
+[System]        FileSize                        : 259 kB
+[System]        FileModifyDate                  : 2026:10:25 20:55:37-04:00
+[System]        FileAccessDate                  : 2026:10:25 21:48:00-04:00
+[System]        FileInodeChangeDate             : 2026:10:25 20:55:37-04:00
+[System]        FilePermissions                 : -rw-rw-r--
+[File]          FileType                        : TXT
+[File]          FileTypeExtension               : txt
+[File]          MIMEType                        : text/plain
+[File]          MIMEEncoding                    : unknown-8bit
+[File]          Newlines                        : Unix LF
+[File]          LineCount                       : 32321
+[File]          WordCount                       : 32321
+======== recovered/recup_dir.1/f0385809.txt
+[ExifTool]      ExifToolVersion                 : 13.55
+[System]        FileName                        : f0385809.txt
+[System]        Directory                       : recovered/recup_dir.1
+[System]        FileSize                        : 260 kB
+[System]        FileModifyDate                  : 2026:10:25 20:55:37-04:00
+[System]        FileAccessDate                  : 2026:10:25 21:48:07-04:00
+[System]        FileInodeChangeDate             : 2026:10:25 20:55:37-04:00
+[System]        FilePermissions                 : -rw-rw-r--
+[File]          FileType                        : TXT
+[File]          FileTypeExtension               : txt
+[File]          MIMEType                        : text/plain
+[File]          MIMEEncoding                    : unknown-8bit
+[File]          Newlines                        : Unix LF
+[File]          LineCount                       : 32449
+[File]          WordCount                       : 32449
+======== recovered/recup_dir.1/f0386321.txt
+[ExifTool]      ExifToolVersion                 : 13.55
+[System]        FileName                        : f0386321.txt
+[System]        Directory                       : recovered/recup_dir.1
+[System]        FileSize                        : 261 kB
+[System]        FileModifyDate                  : 2026:10:25 20:55:37-04:00
+[System]        FileAccessDate                  : 2026:10:25 21:48:08-04:00
+[System]        FileInodeChangeDate             : 2026:10:25 20:55:37-04:00
+[System]        FilePermissions                 : -rw-rw-r--
+[File]          FileType                        : TXT
+[File]          FileTypeExtension               : txt
+[File]          MIMEType                        : text/plain
+[File]          MIMEEncoding                    : unknown-8bit
+[File]          Newlines                        : Unix LF
+[File]          LineCount                       : 32577
+[File]          WordCount                       : 32577
+======== recovered/recup_dir.1/f0386833.txt
+[ExifTool]      ExifToolVersion                 : 13.55
+[System]        FileName                        : f0386833.txt
+[System]        Directory                       : recovered/recup_dir.1
+[System]        FileSize                        : 262 kB
+[System]        FileModifyDate                  : 2026:10:25 20:55:37-04:00
+[System]        FileAccessDate                  : 2026:10:25 21:47:54-04:00
+[System]        FileInodeChangeDate             : 2026:10:25 20:55:37-04:00
+[System]        FilePermissions                 : -rw-rw-r--
+[File]          FileType                        : TXT
+[File]          FileTypeExtension               : txt
+[File]          MIMEType                        : text/plain
+[File]          MIMEEncoding                    : unknown-8bit
+[File]          Newlines                        : Unix LF
+[File]          LineCount                       : 32705
+[File]          WordCount                       : 32705
+======== recovered/recup_dir.1/f0387353.txt
+[ExifTool]      ExifToolVersion                 : 13.55
+[System]        FileName                        : f0387353.txt
+[System]        Directory                       : recovered/recup_dir.1
+[System]        FileSize                        : 259 kB
+[System]        FileModifyDate                  : 2026:10:25 20:55:37-04:00
+[System]        FileAccessDate                  : 2026:10:25 21:47:59-04:00
+[System]        FileInodeChangeDate             : 2026:10:25 20:55:37-04:00
+[System]        FilePermissions                 : -rw-rw-r--
+[File]          FileType                        : TXT
+[File]          FileTypeExtension               : txt
+[File]          MIMEType                        : text/plain
+[File]          MIMEEncoding                    : unknown-8bit
+[File]          Newlines                        : Unix LF
+[File]          LineCount                       : 32321
+[File]          WordCount                       : 32321
+======== recovered/recup_dir.1/f0387865.txt
+[ExifTool]      ExifToolVersion                 : 13.55
+[System]        FileName                        : f0387865.txt
+[System]        Directory                       : recovered/recup_dir.1
+[System]        FileSize                        : 260 kB
+[System]        FileModifyDate                  : 2026:10:25 20:55:37-04:00
+[System]        FileAccessDate                  : 2026:10:25 21:48:07-04:00
+[System]        FileInodeChangeDate             : 2026:10:25 20:55:37-04:00
+[System]        FilePermissions                 : -rw-rw-r--
+[File]          FileType                        : TXT
+[File]          FileTypeExtension               : txt
+[File]          MIMEType                        : text/plain
+[File]          MIMEEncoding                    : unknown-8bit
+[File]          Newlines                        : Unix LF
+[File]          LineCount                       : 32449
+[File]          WordCount                       : 32449
+======== recovered/recup_dir.1/f0388377.txt
+[ExifTool]      ExifToolVersion                 : 13.55
+[System]        FileName                        : f0388377.txt
+[System]        Directory                       : recovered/recup_dir.1
+[System]        FileSize                        : 261 kB
+[System]        FileModifyDate                  : 2026:10:25 20:55:37-04:00
+[System]        FileAccessDate                  : 2026:10:25 21:47:58-04:00
+[System]        FileInodeChangeDate             : 2026:10:25 20:55:37-04:00
+[System]        FilePermissions                 : -rw-rw-r--
+[File]          FileType                        : TXT
+[File]          FileTypeExtension               : txt
+[File]          MIMEType                        : text/plain
+[File]          MIMEEncoding                    : unknown-8bit
+[File]          Newlines                        : Unix LF
+[File]          LineCount                       : 32577
+[File]          WordCount                       : 32577
+======== recovered/recup_dir.1/f0388889.txt
+[ExifTool]      ExifToolVersion                 : 13.55
+[System]        FileName                        : f0388889.txt
+[System]        Directory                       : recovered/recup_dir.1
+[System]        FileSize                        : 262 kB
+[System]        FileModifyDate                  : 2026:10:25 20:55:37-04:00
+[System]        FileAccessDate                  : 2026:10:25 21:48:08-04:00
+[System]        FileInodeChangeDate             : 2026:10:25 20:55:37-04:00
+[System]        FilePermissions                 : -rw-rw-r--
+[File]          FileType                        : TXT
+[File]          FileTypeExtension               : txt
+[File]          MIMEType                        : text/plain
+[File]          MIMEEncoding                    : unknown-8bit
+[File]          Newlines                        : Unix LF
+[File]          LineCount                       : 32705
+[File]          WordCount                       : 32705
+======== recovered/recup_dir.1/f0389409.txt
+[ExifTool]      ExifToolVersion                 : 13.55
+[System]        FileName                        : f0389409.txt
+[System]        Directory                       : recovered/recup_dir.1
+[System]        FileSize                        : 259 kB
+[System]        FileModifyDate                  : 2026:10:25 20:55:37-04:00
+[System]        FileAccessDate                  : 2026:10:25 21:47:54-04:00
+[System]        FileInodeChangeDate             : 2026:10:25 20:55:37-04:00
+[System]        FilePermissions                 : -rw-rw-r--
+[File]          FileType                        : TXT
+[File]          FileTypeExtension               : txt
+[File]          MIMEType                        : text/plain
+[File]          MIMEEncoding                    : unknown-8bit
+[File]          Newlines                        : Unix LF
+[File]          LineCount                       : 32321
+[File]          WordCount                       : 32321
+======== recovered/recup_dir.1/f0389921.txt
+[ExifTool]      ExifToolVersion                 : 13.55
+[System]        FileName                        : f0389921.txt
+[System]        Directory                       : recovered/recup_dir.1
+[System]        FileSize                        : 260 kB
+[System]        FileModifyDate                  : 2026:10:25 20:55:37-04:00
+[System]        FileAccessDate                  : 2026:10:25 21:48:07-04:00
+[System]        FileInodeChangeDate             : 2026:10:25 20:55:37-04:00
+[System]        FilePermissions                 : -rw-rw-r--
+[File]          FileType                        : TXT
+[File]          FileTypeExtension               : txt
+[File]          MIMEType                        : text/plain
+[File]          MIMEEncoding                    : unknown-8bit
+[File]          Newlines                        : Unix LF
+[File]          LineCount                       : 32449
+[File]          WordCount                       : 32449
+======== recovered/recup_dir.1/f0390433.txt
+[ExifTool]      ExifToolVersion                 : 13.55
+[System]        FileName                        : f0390433.txt
+[System]        Directory                       : recovered/recup_dir.1
+[System]        FileSize                        : 261 kB
+[System]        FileModifyDate                  : 2026:10:25 20:55:37-04:00
+[System]        FileAccessDate                  : 2026:10:25 21:48:03-04:00
+[System]        FileInodeChangeDate             : 2026:10:25 20:55:37-04:00
+[System]        FilePermissions                 : -rw-rw-r--
+[File]          FileType                        : TXT
+[File]          FileTypeExtension               : txt
+[File]          MIMEType                        : text/plain
+[File]          MIMEEncoding                    : unknown-8bit
+[File]          Newlines                        : Unix LF
+[File]          LineCount                       : 32577
+[File]          WordCount                       : 32577
+======== recovered/recup_dir.1/f0390945.txt
+[ExifTool]      ExifToolVersion                 : 13.55
+[System]        FileName                        : f0390945.txt
+[System]        Directory                       : recovered/recup_dir.1
+[System]        FileSize                        : 262 kB
+[System]        FileModifyDate                  : 2026:10:25 20:55:37-04:00
+[System]        FileAccessDate                  : 2026:10:25 21:48:06-04:00
+[System]        FileInodeChangeDate             : 2026:10:25 20:55:37-04:00
+[System]        FilePermissions                 : -rw-rw-r--
+[File]          FileType                        : TXT
+[File]          FileTypeExtension               : txt
+[File]          MIMEType                        : text/plain
+[File]          MIMEEncoding                    : unknown-8bit
+[File]          Newlines                        : Unix LF
+[File]          LineCount                       : 32705
+[File]          WordCount                       : 32705
+======== recovered/recup_dir.1/f0391465.txt
+[ExifTool]      ExifToolVersion                 : 13.55
+[System]        FileName                        : f0391465.txt
+[System]        Directory                       : recovered/recup_dir.1
+[System]        FileSize                        : 259 kB
+[System]        FileModifyDate                  : 2026:10:25 20:55:37-04:00
+[System]        FileAccessDate                  : 2026:10:25 21:47:55-04:00
+[System]        FileInodeChangeDate             : 2026:10:25 20:55:37-04:00
+[System]        FilePermissions                 : -rw-rw-r--
+[File]          FileType                        : TXT
+[File]          FileTypeExtension               : txt
+[File]          MIMEType                        : text/plain
+[File]          MIMEEncoding                    : unknown-8bit
+[File]          Newlines                        : Unix LF
+[File]          LineCount                       : 32321
+[File]          WordCount                       : 32321
+======== recovered/recup_dir.1/f0391977.txt
+[ExifTool]      ExifToolVersion                 : 13.55
+[System]        FileName                        : f0391977.txt
+[System]        Directory                       : recovered/recup_dir.1
+[System]        FileSize                        : 260 kB
+[System]        FileModifyDate                  : 2026:10:25 20:55:37-04:00
+[System]        FileAccessDate                  : 2026:10:25 21:47:59-04:00
+[System]        FileInodeChangeDate             : 2026:10:25 20:55:37-04:00
+[System]        FilePermissions                 : -rw-rw-r--
+[File]          FileType                        : TXT
+[File]          FileTypeExtension               : txt
+[File]          MIMEType                        : text/plain
+[File]          MIMEEncoding                    : unknown-8bit
+[File]          Newlines                        : Unix LF
+[File]          LineCount                       : 32449
+[File]          WordCount                       : 32449
+======== recovered/recup_dir.1/f0392489.txt
+[ExifTool]      ExifToolVersion                 : 13.55
+[System]        FileName                        : f0392489.txt
+[System]        Directory                       : recovered/recup_dir.1
+[System]        FileSize                        : 261 kB
+[System]        FileModifyDate                  : 2026:10:25 20:55:37-04:00
+[System]        FileAccessDate                  : 2026:10:25 21:48:08-04:00
+[System]        FileInodeChangeDate             : 2026:10:25 20:55:37-04:00
+[System]        FilePermissions                 : -rw-rw-r--
+[File]          FileType                        : TXT
+[File]          FileTypeExtension               : txt
+[File]          MIMEType                        : text/plain
+[File]          MIMEEncoding                    : unknown-8bit
+[File]          Newlines                        : Unix LF
+[File]          LineCount                       : 32577
+[File]          WordCount                       : 32577
+======== recovered/recup_dir.1/f0393001.txt
+[ExifTool]      ExifToolVersion                 : 13.55
+[System]        FileName                        : f0393001.txt
+[System]        Directory                       : recovered/recup_dir.1
+[System]        FileSize                        : 111 kB
+[System]        FileModifyDate                  : 2026:10:25 20:55:37-04:00
+[System]        FileAccessDate                  : 2026:10:25 21:48:05-04:00
+[System]        FileInodeChangeDate             : 2026:10:25 20:55:37-04:00
+[System]        FilePermissions                 : -rw-rw-r--
+[File]          FileType                        : TXT
+[File]          FileTypeExtension               : txt
+[File]          MIMEType                        : text/plain
+[File]          MIMEEncoding                    : us-ascii
+[File]          Newlines                        : Unix LF
+[File]          LineCount                       : 13888
+[File]          WordCount                       : 13888
+======== recovered/recup_dir.1/f0393737.txt
+[ExifTool]      ExifToolVersion                 : 13.55
+[System]        FileName                        : f0393737.txt
+[System]        Directory                       : recovered/recup_dir.1
+[System]        FileSize                        : 149 kB
+[System]        FileModifyDate                  : 2026:10:25 20:55:37-04:00
+[System]        FileAccessDate                  : 2026:10:25 21:47:58-04:00
+[System]        FileInodeChangeDate             : 2026:10:25 20:55:37-04:00
+[System]        FilePermissions                 : -rw-rw-r--
+[File]          FileType                        : TXT
+[File]          FileTypeExtension               : txt
+[File]          MIMEType                        : text/plain
+[File]          MIMEEncoding                    : unknown-8bit
+[File]          Newlines                        : Unix LF
+[File]          LineCount                       : 18625
+[File]          WordCount                       : 18625
+======== recovered/recup_dir.1/f0394033.txt
+[ExifTool]      ExifToolVersion                 : 13.55
+[System]        FileName                        : f0394033.txt
+[System]        Directory                       : recovered/recup_dir.1
+[System]        FileSize                        : 261 kB
+[System]        FileModifyDate                  : 2026:10:25 20:55:37-04:00
+[System]        FileAccessDate                  : 2026:10:25 21:48:07-04:00
+[System]        FileInodeChangeDate             : 2026:10:25 20:55:37-04:00
+[System]        FilePermissions                 : -rw-rw-r--
+[File]          FileType                        : TXT
+[File]          FileTypeExtension               : txt
+[File]          MIMEType                        : text/plain
+[File]          MIMEEncoding                    : unknown-8bit
+[File]          Newlines                        : Unix LF
+[File]          LineCount                       : 32577
+[File]          WordCount                       : 32577
+======== recovered/recup_dir.1/f0394545.txt
+[ExifTool]      ExifToolVersion                 : 13.55
+[System]        FileName                        : f0394545.txt
+[System]        Directory                       : recovered/recup_dir.1
+[System]        FileSize                        : 262 kB
+[System]        FileModifyDate                  : 2026:10:25 20:55:37-04:00
+[System]        FileAccessDate                  : 2026:10:25 21:48:03-04:00
+[System]        FileInodeChangeDate             : 2026:10:25 20:55:37-04:00
+[System]        FilePermissions                 : -rw-rw-r--
+[File]          FileType                        : TXT
+[File]          FileTypeExtension               : txt
+[File]          MIMEType                        : text/plain
+[File]          MIMEEncoding                    : unknown-8bit
+[File]          Newlines                        : Unix LF
+[File]          LineCount                       : 32705
+[File]          WordCount                       : 32705
+======== recovered/recup_dir.1/f0395065.txt
+[ExifTool]      ExifToolVersion                 : 13.55
+[System]        FileName                        : f0395065.txt
+[System]        Directory                       : recovered/recup_dir.1
+[System]        FileSize                        : 259 kB
+[System]        FileModifyDate                  : 2026:10:25 20:55:37-04:00
+[System]        FileAccessDate                  : 2026:10:25 21:47:54-04:00
+[System]        FileInodeChangeDate             : 2026:10:25 20:55:37-04:00
+[System]        FilePermissions                 : -rw-rw-r--
+[File]          FileType                        : TXT
+[File]          FileTypeExtension               : txt
+[File]          MIMEType                        : text/plain
+[File]          MIMEEncoding                    : unknown-8bit
+[File]          Newlines                        : Unix LF
+[File]          LineCount                       : 32321
+[File]          WordCount                       : 32321
+======== recovered/recup_dir.1/f0395577.txt
+[ExifTool]      ExifToolVersion                 : 13.55
+[System]        FileName                        : f0395577.txt
+[System]        Directory                       : recovered/recup_dir.1
+[System]        FileSize                        : 260 kB
+[System]        FileModifyDate                  : 2026:10:25 20:55:37-04:00
+[System]        FileAccessDate                  : 2026:10:25 21:48:07-04:00
+[System]        FileInodeChangeDate             : 2026:10:25 20:55:37-04:00
+[System]        FilePermissions                 : -rw-rw-r--
+[File]          FileType                        : TXT
+[File]          FileTypeExtension               : txt
+[File]          MIMEType                        : text/plain
+[File]          MIMEEncoding                    : unknown-8bit
+[File]          Newlines                        : Unix LF
+[File]          LineCount                       : 32449
+[File]          WordCount                       : 32449
+======== recovered/recup_dir.1/f0396089.txt
+[ExifTool]      ExifToolVersion                 : 13.55
+[System]        FileName                        : f0396089.txt
+[System]        Directory                       : recovered/recup_dir.1
+[System]        FileSize                        : 261 kB
+[System]        FileModifyDate                  : 2026:10:25 20:55:37-04:00
+[System]        FileAccessDate                  : 2026:10:25 21:48:07-04:00
+[System]        FileInodeChangeDate             : 2026:10:25 20:55:37-04:00
+[System]        FilePermissions                 : -rw-rw-r--
+[File]          FileType                        : TXT
+[File]          FileTypeExtension               : txt
+[File]          MIMEType                        : text/plain
+[File]          MIMEEncoding                    : unknown-8bit
+[File]          Newlines                        : Unix LF
+[File]          LineCount                       : 32577
+[File]          WordCount                       : 32577
+======== recovered/recup_dir.1/f0396601.txt
+[ExifTool]      ExifToolVersion                 : 13.55
+[System]        FileName                        : f0396601.txt
+[System]        Directory                       : recovered/recup_dir.1
+[System]        FileSize                        : 126 kB
+[System]        FileModifyDate                  : 2026:10:25 20:55:37-04:00
+[System]        FileAccessDate                  : 2026:10:25 21:48:06-04:00
+[System]        FileInodeChangeDate             : 2026:10:25 20:55:37-04:00
+[System]        FilePermissions                 : -rw-rw-r--
+[File]          FileType                        : TXT
+[File]          FileTypeExtension               : txt
+[File]          MIMEType                        : text/plain
+[File]          MIMEEncoding                    : us-ascii
+[File]          Newlines                        : Unix LF
+[File]          LineCount                       : 15808
+[File]          WordCount                       : 15808
+  129 image files read
